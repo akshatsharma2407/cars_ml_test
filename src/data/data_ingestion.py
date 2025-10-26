@@ -38,9 +38,10 @@ def load_data(data_path: str) -> pd.DataFrame:
     try:
         df = (
             pd.read_csv(data_path)
-            .drop(columns=["Image_List"])
+            .drop(columns=["Image_List","Unnamed: 0",'Km/L_e_City','Km/L_e_Hwy','Km/L'])
             .select_dtypes(include=[int, float, bool])
         )
+        print(df.columns)
         logger.debug('data loaded successfully')
         return df
     except FileNotFoundError as e:
@@ -56,8 +57,8 @@ def save_data(
     try:
         data_path = data_path
         os.makedirs(data_path, exist_ok=True)
-        train_data.to_csv(os.path.join(data_path, "train.csv"))
-        test_data.to_csv(os.path.join(data_path, "test.csv"))
+        train_data.to_csv(os.path.join(data_path, "train.csv"),index=False)
+        test_data.to_csv(os.path.join(data_path, "test.csv"),index=False)
         logger.debug('data saved')
     except Exception as e:
         logger.error(f"Got unexpected error in {__file__} -> save data")

@@ -65,8 +65,8 @@ def save_artifacts(
         data_path = data_path
         os.makedirs(data_path, exist_ok=True)
         joblib.dump(scaler, scaler_path)
-        train_processed_data.to_csv(os.path.join(data_path, "train_processed.csv"))
-        test_processed_data.to_csv(os.path.join(data_path, "test_processed.csv"))
+        train_processed_data.to_csv(os.path.join(data_path, "train_processed.csv"),index=False)
+        test_processed_data.to_csv(os.path.join(data_path, "test_processed.csv"), index=False)
         logger.debug('artifacts saved')
     except ModuleNotFoundError:
         logger.error(f'Either of module path is not found {__file__} -> {data_path}, {scaler}')
