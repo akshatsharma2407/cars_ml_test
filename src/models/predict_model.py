@@ -15,6 +15,7 @@ import matplotlib.pyplot as plt
 import dagshub
 
 mlflow.set_tracking_uri('https://dagshub.com/akshatsharma2407/cars_ml_test.mlflow')
+
 dagshub.init(repo_owner='akshatsharma2407', repo_name='cars_ml_test', mlflow=True)
 
 logger = logging.getLogger(os.path.basename(__file__))
@@ -116,10 +117,8 @@ def exp_tracking_mlflow(params_path: str, mae: float, xtest: pd.DataFrame, model
 
         mlflow.log_artifact(__file__)
 
-        signature = mlflow.models.infer_signature(xtest.head(2),model_output=model.predict(xtest.head(2)))
-
         model_name = 'model'
-        mlflow.sklearn.log_model(model,model_name,signature=signature)
+        mlflow.sklearn.log_model(model,model_name)
 
         saved_run_id(run.info.run_id,model_name,'reports/run_info.json')
 

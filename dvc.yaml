@@ -1,0 +1,36 @@
+stages:
+  data_ingestion:
+    cmd: python src/data/data_ingestion.py
+    deps:
+    - src/data/data_ingestion.py
+    outs:
+    - data/raw
+  transformations:
+    cmd: python src/features/transformations.py
+    deps:
+    - data/raw
+    - src/features/transformations.py
+    outs:
+    - data/processed
+    - models/scaler.joblib
+  train_model:
+    cmd: python src/models/train_model.py
+    deps:
+    - data/processed
+    - src/models/train_model.py
+    outs:
+    - models/model.pkl
+  prediction:
+    cmd: python src/models/predict_model.py
+    deps:
+    - data/processed
+    - models/model.pkl
+    - src/models/predict_model.py
+    outs:
+    - reports/metrics.json
+    - reports/run_info.json
+  register_model:
+    cmd: python src/models/register_model.py
+    deps:
+    - reports/run_info.json
+    - src/models/register_model.py
