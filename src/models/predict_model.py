@@ -99,7 +99,7 @@ def saved_run_id(run_id : str,model_name: str, path: str) -> None:
 
 def exp_tracking_mlflow(params_path: str, mae: float, xtest: pd.DataFrame, model: BaseEstimator) -> None:
     mlflow.sklearn.autolog()
-    mlflow.set_experiment('model eval before registring')
+    mlflow.set_experiment('model eval before registering')
     with mlflow.start_run() as run:
 
         with open(params_path, 'r') as f:
@@ -117,8 +117,9 @@ def exp_tracking_mlflow(params_path: str, mae: float, xtest: pd.DataFrame, model
 
         mlflow.log_artifact(__file__)
 
+        signature = mlflow.models.infer_signature(model_input=xtest.head(),model_output=model.predict(xtest.head(2)))
         model_name = 'model'
-        mlflow.sklearn.log_model(model,model_name)
+        mlflow.sklearn.log_model(model,model_name, signature=signature)
 
         saved_run_id(run.info.run_id,model_name,'reports/run_info.json')
 
