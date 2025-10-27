@@ -16,7 +16,7 @@ def promote_model():
 
     client = mlflow.MlflowClient()
 
-    model_name = "cars_moldel"
+    model_name = "cars_model"
     
     latest_version_staging = client.get_model_version_by_alias(model_name, 'staging').version
 
