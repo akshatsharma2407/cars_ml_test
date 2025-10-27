@@ -75,7 +75,7 @@ def save_artifacts(
         logger.error(f'Found unexpected error {__file__} -> save_artifacts')
         raise
 
-
+ 
 def main() -> None:
     try:
         train_data, test_data = load_data(
