@@ -68,7 +68,7 @@ def main() -> None:
     try:
         test_size = load_params("params.yaml")
         df = load_data(
-            "C:/Users/aksha/OneDrive/Desktop/cars_mlops_practice/sample_data.csv"
+            "https://raw.githubusercontent.com/akshatsharma2407/cars_ml_test/refs/heads/master/sample.csv"
         )
         train_data, test_data = train_test_split(df, test_size=test_size, random_state=42)
         save_data("data/raw", train_data, test_data)
