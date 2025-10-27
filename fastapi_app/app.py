@@ -2,13 +2,19 @@ from fastapi import FastAPI
 from mlflow.client import MlflowClient
 from pydantic import BaseModel, StrictInt
 import mlflow
-import dagshub
+import os
 import pandas as pd
 
 app = FastAPI()
 
+dagshub_token = os.getenv('DAGSHUB_PAT')
+if not dagshub_token:
+    raise ValueError("DAGSHUB_PAT environment variable not set")
+
+os.environ["MLFLOW_TRACKING_USERNAME"] = dagshub_token
+os.environ["MLFLOW_TRACKING_PASSWORD"] = dagshub_token
+
 mlflow.set_tracking_uri('https://dagshub.com/akshatsharma2407/cars_ml_test.mlflow')
-dagshub.init(repo_owner='akshatsharma2407', repo_name='cars_ml_test', mlflow=True)
 
 class InputSchema(BaseModel):
     Model_Year: float
