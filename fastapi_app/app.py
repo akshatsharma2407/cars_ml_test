@@ -47,6 +47,6 @@ model = mlflow.pyfunc.load_model(model_uri)
 
 @app.post('/predict')
 def prediction(user_input: InputSchema):
-    input_df = pd.DataFrame([user_input.model_dump()])  # convert input to DataFrame
-    prediction = model.predict(input_df)                # ML model prediction
-    return {"prediction": prediction.tolist()}          # convert to list for JSON
+    input_df = pd.DataFrame([user_input.model_dump()])  
+    prediction = model.predict(input_df)                
+    return {"prediction": prediction.tolist()}        

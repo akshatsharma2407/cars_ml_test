@@ -30,7 +30,7 @@ def promote_model():
         client.set_registered_model_alias(
                 name=model_name,
                 version=prod_version.version,
-                alias="Archived"
+                alias=f"Archived_{prod_version.version}"
             )
 
     # Promote the new model to production
