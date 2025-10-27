@@ -21,20 +21,25 @@ def promote_model():
     latest_version_staging = client.get_model_version_by_alias(model_name, 'staging').version
 
     # Archive the current production model
-    # prod_version = client.get_model_version_by_alias(model_name, "Production")
-    # client.transition_model_version_stage(
-    #         name=model_name,
-    #         version=prod_version.version,
-    #         stage="Archived"
-    #     )
+    try:
+        prod_version = client.get_model_version_by_alias(model_name, "Production")
+    except:
+        prod_version = None
+
+    if prod_version:
+        client.set_registered_model_alias(
+                name=model_name,
+                version=prod_version.version,
+                stage="Archived"
+            )
 
     # Promote the new model to production
-    client.transition_model_version_stage(
+    client.set_registered_model_alias(
         name=model_name,
         version=latest_version_staging,
-        stage="Production",
-        archive_existing_versions=True
+        alias="Production"
     )
+    
     print(f"Model version {latest_version_staging} promoted to Production")
 
 if __name__ == "__main__":
