@@ -39,7 +39,7 @@ def promote_model():
         version=latest_version_staging,
         alias="Production"
     )
-    
+
     print(f"Model version {latest_version_staging} promoted to Production")
 
 if __name__ == "__main__":
