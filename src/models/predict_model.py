@@ -14,9 +14,14 @@ from sklearn.base import BaseEstimator
 import matplotlib.pyplot as plt
 import dagshub
 
-mlflow.set_tracking_uri('https://dagshub.com/akshatsharma2407/cars_ml_test.mlflow')
+dagshub_token = os.getenv('DAGSHUB_PAT')
+if not dagshub_token:
+    raise ValueError("DAGSHUB_PAT environment variable not set")
 
-dagshub.init(repo_owner='akshatsharma2407', repo_name='cars_ml_test', mlflow=True)
+os.environ["MLFLOW_TRACKING_USERNAME"] = dagshub_token
+os.environ["MLFLOW_TRACKING_PASSWORD"] = dagshub_token
+
+mlflow.set_tracking_uri('https://dagshub.com/akshatsharma2407/cars_ml_test.mlflow')
 
 logger = logging.getLogger(os.path.basename(__file__))
 logger.setLevel('DEBUG')
