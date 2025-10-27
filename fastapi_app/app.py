@@ -33,7 +33,7 @@ class InputSchema(BaseModel):
 
 def get_latest_model_version(model_name):
     client = MlflowClient()
-    latest_version = client.get_model_version_by_alias(model_name,'staging' )
+    latest_version = client.get_model_version_by_alias(model_name,'Production')
     if not latest_version:
         latest_version = client.get_model_version_by_alias(model_name, 'None')
     return latest_version.version if latest_version else None
