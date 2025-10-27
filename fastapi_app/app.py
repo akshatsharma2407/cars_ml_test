@@ -1,9 +1,10 @@
 from fastapi import FastAPI
 from mlflow.client import MlflowClient
-from pydantic import BaseModel, StrictInt
+from pydantic import BaseModel
 import mlflow
 import os
 import pandas as pd
+import uvicorn
 
 app = FastAPI()
 
@@ -19,7 +20,7 @@ mlflow.set_tracking_uri('https://dagshub.com/akshatsharma2407/cars_ml_test.mlflo
 class InputSchema(BaseModel):
     Model_Year: float
     Mileage: float
-    Accidents_Or_Damage : float
+    Accidents_Or_Damage: float
     Clean_Title: float
     One_Owner_Vehicle: float
     Personal_Use_Only: float
@@ -31,22 +32,25 @@ class InputSchema(BaseModel):
     Engine_Size: float
     Valves: float
 
-def get_latest_model_version(model_name):
+def get_latest_model_version(model_name: str):
     client = MlflowClient()
-    latest_version = client.get_model_version_by_alias(model_name,'Production')
+    latest_version = client.get_model_version_by_alias(model_name, "Production")
     if not latest_version:
-        latest_version = client.get_model_version_by_alias(model_name, 'None')
+        latest_version = client.get_model_version_by_alias(model_name, "None")
     return latest_version.version if latest_version else None
 
-model_name = 'cars_model'
 
+model_name = "cars_model"
 model_version = get_latest_model_version(model_name)
 
-model_uri = f"models:/{model_name}/{model_version}" 
+if model_version is None:
+    raise ValueError(f"No valid model version found for '{model_name}'")
+
+model_uri = f"models:/{model_name}/{model_version}"
 model = mlflow.pyfunc.load_model(model_uri)
 
-@app.post('/predict')
+@app.post("/predict")
 def prediction(user_input: InputSchema):
-    input_df = pd.DataFrame([user_input.model_dump()])  
-    prediction = model.predict(input_df)                
-    return {"prediction": prediction.tolist()}        
+    input_df = pd.DataFrame([user_input.model_dump()])
+    prediction = model.predict(input_df)
+    return {"prediction": prediction.tolist()}

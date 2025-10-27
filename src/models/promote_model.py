@@ -20,7 +20,6 @@ def promote_model():
     
     latest_version_staging = client.get_model_version_by_alias(model_name, 'staging').version
 
-    # Archive the current production model
     try:
         prod_version = client.get_model_version_by_alias(model_name, "Production")
     except:
@@ -33,7 +32,6 @@ def promote_model():
                 alias=f"Archived_{prod_version.version}"
             )
 
-    # Promote the new model to production
     client.set_registered_model_alias(
         name=model_name,
         version=latest_version_staging,
