@@ -31,7 +31,7 @@ def load_params(param_path: str) -> float:
         logger.error(f"File do not exist at the given location {__file__} -> {param_path}")
         raise
     except Exception as e:
-        logger.error(f"Got an unexpected error in {__file__} -> load_params")
+        logger.error(f"Got an unexpected error in {__file__} -> load_params") 
         raise
 
 def load_data(data_path: str) -> pd.DataFrame:
