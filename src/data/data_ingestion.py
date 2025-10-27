@@ -38,7 +38,7 @@ def load_data(data_path: str) -> pd.DataFrame:
     try:
         df = (
             pd.read_csv(data_path)
-            .drop(columns=["Image_List","Unnamed: 0",'Km/L_e_City','Km/L_e_Hwy','Km/L'])
+            .drop(columns=["Unnamed: 0",'Km/L_e_City','Km/L_e_Hwy','Km/L'])
             .select_dtypes(include=[int, float, bool])
         )
         print(df.columns)
