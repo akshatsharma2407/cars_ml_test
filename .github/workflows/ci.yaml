@@ -57,8 +57,9 @@ jobs:
       
       - name: Login to AWS ECR
         run: |
-          aws configure set aws access_key_id ${{ secrets.AWS_ACCESS_KEY_ID }}
-          aws configure set aws secret_access_key ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws configure set aws_access_key_id "${{ secrets.AWS_ACCESS_KEY_ID }}"
+          aws configure set aws_secret_access_key "${{ secrets.AWS_SECRET_ACCESS_KEY }}"
+          aws configure set default.region "ap-south-1"
           aws ecr get-login-password --region ap-south-1 | docker login --username AWS --password-stdin 851725541946.dkr.ecr.ap-south-1.amazonaws.com
       
       - name: build docker image
