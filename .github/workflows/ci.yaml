@@ -55,34 +55,20 @@ jobs:
         run: | 
           python -m unittest tests/test_fastapi.py
       
-      - name: Log in to doker hub
-        if: success()
-        uses: docker/login-action@v2
-        with:
-          username: ${{ secrets.DOCKER_HUB_USERNAME }}
-          password: ${{ secrets.DOCKER_HUB_ACCESS_TOKEN }}
-      
-      - name: Build Docker image
-        if: success()
+      - name: Login to AWS ECR
         run: |
-          docker build -t ${{ secrets.DOCKER_HUB_USERNAME }}/autonexusv8:latest .
+          aws configure set aws access_key_id ${{ secrets.AWS_ACCESS_KEY_ID }}
+          aws configure set aws secret_access_key ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+          aws ecr get-login-password --region ap-south-1 | docker login --username AWS --password-stdin 851725541946.dkr.ecr.ap-south-1.amazonaws.com
       
-      - name: push docker image
-        if: success()
+      - name: build docker image
         run: |
-          docker push ${{ secrets.DOCKER_HUB_USERNAME }}/autonexusv8:latest
+          docker build -t autonexus_ecr_image .
       
-      - name: Deploy to EC2
-        if: success()
-        uses: appleboy/ssh-action@v0.1.5
-        with:
-          host: ${{ secrets.EC2_HOST }}
-          username: ${{ secrets.EC2_USER }}
-          key: ${{ secrets.EC2_SSH_KEY }}
-          script: |
-            docker pull ${{ secrets.DOCKER_HUB_USERNAME }}/autonexusv8:latest
-            docker stop my-app || true
-            docker rm my-app || true
-            docker run -p 80:8000 --name my-app \
-              -e DAGSHUB_PAT=${{ secrets.DAGSHUB_PAT }} \
-              ${{ secrets.DOCKER_HUB_USERNAME }}/autonexusv8:latest
+      - name: tag docker autonexus_ecr_image
+        run: |
+          docker tag autonexus_ecr_image:latest 851725541946.dkr.ecr.ap-south-1.amazonaws.com/autonexus_ecr_image:latest
+      
+      - name: push docker image to ECR
+        run: |
+          docker push 851725541946.dkr.ecr.ap-south-1.amazonaws.com/autonexus_ecr_image:latest
