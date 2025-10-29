@@ -57,6 +57,10 @@ def home():
 def about():
     return {'author': 'Akshat Sharma', 'version': '1.0', 'description': 'API for predicting car prices using ML model'} 
 
+@app.get('/model_version')
+def model_version_info():
+    return {'model_name': 'demo model', 'model_version': '1'}
+
 @app.post("/predict")
 def prediction(user_input: InputSchema):
     input_df = pd.DataFrame([user_input.model_dump()])
