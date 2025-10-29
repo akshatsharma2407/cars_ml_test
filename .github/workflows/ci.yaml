@@ -95,7 +95,7 @@ jobs:
           aws deploy create-deployment \
             --application-name Mydockerapp2 \
             --deployment-config-name CodeDeployDefault.OneAtATime \
-            --deployment-group-name MyDockerAppASGDeploymentGroup \
+            --deployment-group-name MYdeploymentgroupbluegreen \
             --s3-location bucket=autonexuscodedeploybucket,key=deployment.zip,bundleType=zip \
             --file-exists-behavior OVERWRITE \
             --region ap-south-1
