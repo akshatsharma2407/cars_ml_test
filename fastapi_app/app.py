@@ -49,6 +49,10 @@ if model_version is None:
 model_uri = f"models:/{model_name}/{model_version}"
 model = mlflow.pyfunc.load_model(model_uri)
 
+@app.get("/")
+def home():
+    return {'message': 'Welcome to the Car Price Prediction API'}
+
 @app.post("/predict")
 def prediction(user_input: InputSchema):
     input_df = pd.DataFrame([user_input.model_dump()])
