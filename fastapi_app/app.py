@@ -59,7 +59,7 @@ def about():
 
 @app.get('/model_version')
 def model_version_info():
-    return {'model_name': 'demo model', 'model_version': '1'}
+    return {'model_name': 'demo model', 'model_version': '2'}
 
 @app.post("/predict")
 def prediction(user_input: InputSchema):
