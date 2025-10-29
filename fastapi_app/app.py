@@ -53,6 +53,10 @@ model = mlflow.pyfunc.load_model(model_uri)
 def home():
     return {'message': 'Welcome to the Car Price Prediction API'}
 
+@app.get('/about')
+def about():
+    return {'author': 'Akshat Sharma', 'version': '1.0', 'description': 'API for predicting car prices using ML model'} 
+
 @app.post("/predict")
 def prediction(user_input: InputSchema):
     input_df = pd.DataFrame([user_input.model_dump()])
