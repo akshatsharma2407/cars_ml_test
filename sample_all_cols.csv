@@ -1,0 +1,1001 @@
+,Model_Year,Mileage,Brand_Name,Model_Name,Stock_Type,Price,Exterior_Color,Interior_Color,Drivetrain,Km/L,Fuel_Type,Accidents_Or_Damage,Clean_Title,One_Owner_Vehicle,Personal_Use_Only,Level2_Charging,Dc_Fast_Charging,Battery_Capacity,Expected_Range,Gear_Spec,Engine_Size,Cylinder_Config,Valves,Km/L_e_City,Km/L_e_Hwy,City,STATE
+47611,2020,70223,Nissan,NV200 S,Used,18900.0,white,white,FWD,11.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,7,2.0,I4,16,0.0,0.0,painesville,ohio
+30799,2023,16753,Acura,MDX w/A-Spec Package,Used,44839.0,white,red,AWD,9.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,linden,new jersey
+78191,2022,33682,Honda,Pilot Touring 8-Passenger,Used,39990.0,white,black,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,9,3.5,V6,24,0.0,0.0,fargo,north dakota
+47552,2020,65842,Mazda,CX-5 Grand Touring,Used,21791.0,gray,beige,FWD,12.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,riverview,michigan
+60179,2019,44865,Tesla,Model 3 Long Range,Used,20994.0,gray,white,AWD,0.0,Electric,False,True,True,True,10.0,30.0,62.0,436.8,1,0.0,NA,0,51.0,48.0,westminster,california
+46673,2023,44281,Nissan,Rogue SV,Used,23500.0,black,gray,AWD,13.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,2,1.5,I3,12,0.0,0.0,slidell,louisiana
+234153,2023,26272,Jeep,Wrangler Sport S,Certified,32990.0,black,black,4WD,9.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,3.6,V6,16,0.0,0.0,saint louis,missouri
+104930,2017,46092,BMW,M4 Base,Used,44985.0,black,black,RWD,9.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,3.0,I6,24,0.0,0.0,elizabeth,new jersey
+184489,2019,85092,Acura,MDX 3.5L,Used,19982.0,white,black,FWD,10.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,9,3.5,V6,24,0.0,0.0,ocala,florida
+240971,2023,33095,Nissan,Rogue S,Certified,23437.0,white,gray,AWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,2,1.5,I3,12,0.0,0.0,staunton,virginia
+173253,2022,31529,Dodge,Challenger GT,Used,26470.0,white,black,RWD,10.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,columbus,ohio
+189132,2011,201328,Ford,Edge Limited,Used,4495.0,white,yellow,AWD,9.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,chesaning,michigan
+58479,2018,33541,Dodge,Charger SXT Plus,Used,15995.0,red,black,RWD,10.0,Gasoline,False,False,False,False,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,lakeside,california
+213404,2023,26773,Honda,Accord EX,Used,26998.0,gray,black,RWD,14.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,2,1.5,I4,16,0.0,0.0,charlotte,north carolina
+195688,2020,130449,Chevrolet,Express 2500 RWD 2500 Regular Wheelbase WT,Used,23995.0,yellow,white,RWD,7.1,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,6,6.0,V8,16,0.0,0.0,houston,texas
+184651,2008,192798,Mazda,Mazda3 i Touring,Used,4450.0,gray,black,FWD,11.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,4,2.0,I4,16,0.0,0.0,lynnwood,washington
+239186,2023,54281,Jeep,Gladiator Overland,Used,33998.0,silver,black,4WD,8.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,great falls,montana
+117151,1990,56885,Mercedes-Benz,E-Class E 430,Used,13480.0,gray,gray,RWD,9.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,4.3,V8,16,0.0,0.0,bellevue,washington
+66384,2022,47272,GMC,Sierra 2500 Denali,Used,65995.0,red,black,4WD,5.0,Diesel,False,True,True,True,0.0,0.0,0.0,0.0,10,6.6,V8,32,0.0,0.0,saint augustine,florida
+163423,2018,27244,Mazda,MX-5 Miata Grand Touring,Used,21995.0,black,black,RWD,13.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,foley,minnesota
+101325,2024,35770,Mazda,CX-5 2.5 S Select,Used,21295.0,black,black,AWD,11.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,winter park,florida
+101459,2025,3389,Porsche,Panamera 4,Certified,111966.0,blue,black,AWD,9.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.9,V6,24,0.0,0.0,highland park,illinois
+53419,2018,94868,Toyota,4Runner TRD Pro,Used,37990.0,black,black,4WD,4.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,5,4.0,V6,24,0.0,0.0,saco,maine
+21032,2021,11066,Chevrolet,Corvette STINGRAY W/3LT,Certified,69775.0,gray,red,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,6.2,V8,16,0.0,0.0,atlanta,georgia
+91985,2022,35847,Honda,CR-V EX-L,Used,29626.0,gray,black,AWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,1,1.5,I4,16,0.0,0.0,salt lake city,utah
+157163,2020,51342,Honda,Odyssey EX-L,Used,30998.0,blue,gray,RWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,new haven,connecticut
+270065,2021,77211,Jeep,Gladiator Mojave 4X4,Used,32691.0,gray,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,angola,indiana
+91513,2024,17903,Subaru,Forester Premium,Used,25000.0,white,black,AWD,13.0,Gasoline,True,False,True,True,0.0,0.0,0.0,0.0,8,2.5,H4,16,0.0,0.0,fishers,indiana
+31739,2022,22780,Chevrolet,Tahoe 4WD High Country,Used,62990.0,gray,black,4WD,7.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,10,6.2,V8,16,0.0,0.0,vacaville,california
+255772,2019,112576,Chrysler,Pacifica Hybrid Limited,Used,16374.0,blue,black,FWD,32.0,Plug-in Hybrid,True,True,False,True,0.0,0.0,0.0,0.0,1,3.6,V6,24,0.0,0.0,jordan,minnesota
+244223,2022,40570,Jeep,Wrangler Unlimited Sahara,Used,35000.0,beige,black,4WD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,16,0.0,0.0,louisville,kentucky
+106507,2022,47327,Toyota,Corolla LE,Used,19237.0,blue,black,FWD,14.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,2,1.8,I4,16,0.0,0.0,orlando,florida
+140941,2011,82539,Porsche,Boxster Base,Used,18885.0,black,black,RWD,10.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,7,2.9,H6,24,0.0,0.0,fort pierce,florida
+206654,2024,51672,Toyota,Corolla LE,Used,17011.0,blue,black,FWD,16.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,2.0,I4,16,0.0,0.0,new port richey,florida
+245560,2021,60156,RAM,ProMaster 2500 High Roof,Used,21951.0,white,black,FWD,13.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,3.6,V6,24,0.0,0.0,fort lauderdale,florida
+40586,2021,110967,GMC,Sierra 1500 AT4,Used,36988.0,black,black,4WD,7.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,10,6.2,V8,16,0.0,0.0,gretna,nebraska
+154567,2021,24157,Dodge,Charger SRT Hellcat Widebody,Used,60995.0,black,black,RWD,7.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,8,6.2,V8,16,0.0,0.0,detroit,michigan
+30217,2014,150935,Chevrolet,Silverado 1500 2LT,Used,15995.0,black,black,4WD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,5.3,V8,12,0.0,0.0,louisville,kentucky
+251152,2024,1058,Subaru,Forester Wilderness,Used,35921.0,white,gray,AWD,11.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.5,H4,16,0.0,0.0,north smithfield,rhode island
+189467,2023,18951,Honda,Civic Sport,Certified,27696.0,white,black,FWD,14.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,erie,pennsylvania
+99760,2023,42031,Toyota,4Runner SR5,Used,41975.0,silver,black,RWD,7.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,5,4.0,V6,24,0.0,0.0,moline,illinois
+135128,2019,96329,Toyota,Camry Hybrid XLE,Used,25995.0,white,yellow,FWD,19.0,Hybrid,False,True,False,False,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,kirkland,washington
+45686,2018,112949,Mazda,Mazda3 Sport,Used,12200.0,blue,black,FWD,14.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,annapolis,maryland
+176766,2021,11097,Honda,CR-V Touring,Used,31216.0,silver,gray,FWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,1,1.5,I4,16,0.0,0.0,dallas,texas
+227589,2022,52093,Porsche,Cayenne Base (Tiptronic),Certified,51994.0,black,brown,AWD,8.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,8,3.0,V6,24,0.0,0.0,newark,delaware
+21257,2020,15259,Porsche,Cayenne Turbo S,Used,104998.0,black,brown,AWD,7.8,Plug-in Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,8,4.0,V8,16,0.0,0.0,pompano beach,florida
+128536,2020,78415,Jeep,Grand Cherokee Overland,Used,24127.0,white,black,4WD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,watertown,connecticut
+252605,2023,35622,Jeep,Gladiator Sport,Used,34722.0,black,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,albemarle,north carolina
+117627,2021,100130,Subaru,Forester Premium,Used,18391.0,gray,black,AWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.5,H4,16,0.0,0.0,natick,massachusetts
+202188,2025,901,Audi,Q5 45 S line Premium Plus,Used,56440.0,white,black,AWD,11.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,7,2.0,I4,16,0.0,0.0,phoenix,arizona
+28157,2019,96356,Toyota,Highlander XLE,Certified,26950.0,gray,gray,FWD,10.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,tampa,florida
+261382,2016,85747,Chrysler,Town & Country Touring,Used,12800.0,white,black,FWD,9.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,6,3.6,V6,24,0.0,0.0,gladbrook,iowa
+152051,2023,16410,Nissan,Rogue SV,Used,22495.0,white,gray,FWD,14.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,2,1.5,I3,12,0.0,0.0,daly city,california
+239776,2022,63236,Toyota,Sienna Limited 7-Passenger,Certified,44800.0,white,gray,AWD,15.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,fort collins,colorado
+256702,2020,50659,Toyota,RAV4 Hybrid XLE,Used,27995.0,silver,gray,AWD,17.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,2,2.5,I4,16,0.0,0.0,san antonio,texas
+266639,2023,34951,Nissan,Rogue SL,Used,25023.0,white,gray,AWD,13.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,2,1.5,I3,12,0.0,0.0,hillside,new jersey
+267962,2020,53024,Ford,Explorer ST,Used,33206.0,black,black,4WD,9.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,10,3.0,V6,24,0.0,0.0,birmingham,alabama
+160435,2025,10571,Honda,Odyssey Elite,Used,46500.0,gray,black,FWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,fargo,north dakota
+53906,2021,325000,Chevrolet,Silverado 3500 LT,Used,30500.0,white,gray,4WD,5.0,Diesel,False,True,True,True,0.0,0.0,0.0,0.0,10,6.6,V8,32,0.0,0.0,ann arbor,michigan
+55292,2019,136846,Dodge,Grand Caravan SXT,Used,9995.0,black,black,FWD,11.0,Flex Fuel,False,True,False,False,0.0,0.0,0.0,0.0,6,3.6,V6,24,0.0,0.0,west chester,ohio
+181981,2015,33189,Dodge,Challenger R/T Scat Pack,Used,29532.0,white,black,RWD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,6.4,V8,16,0.0,0.0,fallston,maryland
+267866,2019,82061,Ford,Explorer XLT,Used,23995.0,gray,black,AWD,8.0,Other,False,True,False,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,point pleasant beach,new jersey
+61799,2014,167121,Toyota,Tundra SR5,Used,14995.0,white,gray,RWD,7.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,6,4.6,V8,32,0.0,0.0,tucson,arizona
+121746,2013,149436,Chrysler,Town & Country Touring,Used,5495.0,white,black,FWD,9.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,3.6,V6,24,0.0,0.0,chesaning,michigan
+18101,2025,8861,Subaru,Forester Touring,Certified,36750.0,white,black,AWD,12.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.5,H4,16,0.0,0.0,wesley chapel,florida
+254065,2025,14369,GMC,Sierra 1500 AT4,Used,64693.0,black,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,6.2,V8,24,0.0,0.0,huntsville,alabama
+180592,2017,95083,Subaru,Forester 2.5i Premium,Used,14899.0,gray,gray,AWD,12.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,2.5,H4,16,0.0,0.0,miami,florida
+259093,2023,40481,Toyota,Corolla XSE,Certified,26487.0,blue,black,FWD,15.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,2.0,I4,16,0.0,0.0,aberdeen,washington
+188518,2023,15781,Jeep,Wrangler Rubicon,Used,66075.0,green,black,4WD,6.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,6.4,I6,24,0.0,0.0,sarasota,florida
+16007,2021,34621,Jeep,Grand Cherokee Limited X,Used,28697.0,gray,black,4WD,9.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,watertown,massachusetts
+153849,2025,1865,GMC,Sierra 1500 Denali Ultimate,Used,73498.0,black,white,4WD,10.0,Diesel,False,True,True,True,0.0,0.0,0.0,0.0,10,3.0,I6,16,0.0,0.0,chattanooga,tennessee
+7648,2023,29047,Toyota,Tundra Limited,Certified,51719.0,white,black,4WD,8.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,10,3.4,V6,24,0.0,0.0,richmond,kentucky
+125468,2024,6478,Honda,Civic Sport,Used,24921.0,blue,black,FWD,14.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,lafayette,indiana
+8690,2017,161921,Toyota,Sienna LE,Used,12995.0,white,gray,AWD,9.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,hamilton,ohio
+239017,2020,51066,Toyota,Corolla LE,Used,18000.0,gray,black,FWD,14.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,7,1.8,I4,16,0.0,0.0,shrewsbury,massachusetts
+245390,2024,25596,GMC,Sierra 2500 AT4,Used,79200.0,black,black,4WD,5.0,Diesel,False,True,True,True,0.0,0.0,0.0,0.0,10,6.6,V8,32,0.0,0.0,sarasota,florida
+212732,2024,48870,RAM,ProMaster 1500 Low Roof,Used,27850.0,white,black,FWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,charleston,south carolina
+163752,2023,32664,Kia,Soul GT-Line,Used,19677.0,blue,black,FWD,13.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,puyallup,washington
+3123,2023,56104,GMC,Sierra 3500 SLT,Used,68995.0,gray,black,4WD,5.0,Diesel,False,True,False,False,0.0,0.0,0.0,0.0,10,6.6,V8,32,0.0,0.0,spokane,washington
+172066,2021,33110,Chevrolet,Traverse LT Cloth,Used,26450.0,white,black,AWD,9.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,honesdale,pennsylvania
+6666,2014,56128,Mazda,MX-5 Miata Grand Touring,Used,14795.0,gray,brown,RWD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,orlando,florida
+1137,2024,5788,GMC,Sierra 1500 Denali,Used,61996.0,silver,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,6.2,V8,16,0.0,0.0,aurora,missouri
+92682,2023,42017,Ford,Bronco Big Bend,Used,39998.0,gray,gray,4WD,9.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,10,2.3,I4,16,0.0,0.0,wichita,kansas
+101241,2023,42922,Ford,Bronco RAPTOR,Certified,63598.0,orange,black,4WD,7.2,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.0,V6,16,0.0,0.0,woodstock,georgia
+13869,2019,82262,Jeep,Wrangler Unlimited Rubicon,Used,31999.0,black,black,4WD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,tishomingo,oklahoma
+132549,2007,50127,Mazda,MX-5 Miata Grand Touring,Used,13999.0,black,yellow,RWD,11.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,syracuse,new york
+53301,2023,30623,Ford,F-250 XL,Certified,41638.0,white,gray,RWD,7.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,6.8,V8,16,0.0,0.0,colusa,california
+107692,2017,130482,Jeep,Grand Cherokee Limited X,Used,12446.0,white,gray,4WD,9.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,cleveland,ohio
+252163,2018,48996,Honda,CR-V EX-L,Used,26500.0,white,gray,AWD,11.3,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.4,I4,16,0.0,0.0,omaha,nebraska
+133121,2021,17797,Jeep,Wrangler Unlimited Willys,Used,32265.0,green,black,4WD,8.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,16,0.0,0.0,bridgewater,new jersey
+109490,2021,41041,Jeep,Grand Cherokee 80th Anniversary Edition,Certified,28500.0,white,black,4WD,9.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,gaylord,michigan
+116877,2016,54595,Ford,Transit Connect XLT,Used,14500.0,white,gray,FWD,10.0,Flex Fuel,True,True,False,False,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,daphne,alabama
+168867,2025,10298,Ford,Explorer ST-Line,Used,44193.0,black,black,RWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,2.3,I4,16,0.0,0.0,adel,georgia
+98723,2021,63128,Honda,CR-V EX,Used,21987.0,gray,black,AWD,13.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,1.5,I4,16,0.0,0.0,scottsdale,arizona
+54890,2023,4895,Chevrolet,Corvette Stingray w/3LT,Used,79990.0,blue,blue,RWD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,6.2,V8,16,0.0,0.0,manassas,virginia
+134474,2023,20050,Porsche,911 Carrera GTS,Used,189998.0,white,black,RWD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,3.0,H6,24,0.0,0.0,pompano beach,florida
+216893,1990,89911,Mercedes-Benz,SL-Class 2dr Convertible 300SL 5-Spd,Used,8995.0,white,gray,RWD,3.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,3.2,I6,16,0.0,0.0,santa monica,california
+218442,2023,46309,Nissan,Altima SR,Used,20998.0,silver,black,RWD,14.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.53,I4,16,0.0,0.0,san jose,california
+75798,2017,163843,Ford,F-150 XLT,Used,16848.0,red,gray,4WD,9.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,2.7,V6,24,0.0,0.0,parsons,tennessee
+240019,2024,1209,Toyota,Tundra SR5,Used,46000.0,black,gray,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.4,V6,24,0.0,0.0,little rock,arkansas
+97639,2024,18924,Ford,Mustang Dark Horse,Certified,58500.0,gray,black,RWD,8.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,5.0,V8,32,0.0,0.0,minerva,ohio
+90252,2016,149519,Toyota,Highlander Hybrid Platinum,Used,22995.0,black,yellow,AWD,12.0,Hybrid,False,True,False,True,0.0,0.0,0.0,0.0,8,3.5,V6,16,0.0,0.0,kirkland,washington
+153482,2022,59165,Toyota,Corolla LE,Used,19995.0,white,black,FWD,22.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,2,1.8,I4,16,0.0,0.0,aiea,hawaii
+193594,2023,52035,Honda,Pilot,Certified,35785.0,white,black,4WD,9.8,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.47,I4,16,0.0,0.0,matteson,illinois
+57430,2023,23400,Toyota,Camry XSE,Used,26643.0,black,black,FWD,14.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,tampa,florida
+221850,2023,34823,Nissan,Rogue SV,Certified,21675.0,blue,gray,FWD,14.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,2,1.5,I3,12,0.0,0.0,concord,north carolina
+20269,2024,16179,Chevrolet,Malibu 1LS,Used,20809.0,gray,black,FWD,14.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,2,1.5,I4,16,0.0,0.0,olathe,kansas
+201963,2017,148700,Subaru,Forester 2.5i Premium,Used,10900.0,white,gray,AWD,12.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,2.5,H4,16,0.0,0.0,logan,utah
+68859,2024,11896,Ford,Escape Active,Used,24500.0,white,black,FWD,13.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,1.5,I3,12,0.0,0.0,troy,michigan
+124152,2006,225000,Mercedes-Benz,E-Class E320 CDI,Used,6500.0,red,beige,RWD,12.7,Diesel,True,True,False,True,0.0,0.0,0.0,0.0,8,3.2,I4,16,0.0,0.0,Unknown_City,Unknown_State
+185191,2022,54862,Kia,Soul LX,Used,14972.0,gray,black,FWD,14.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,2,2.0,I4,16,0.0,0.0,abington,massachusetts
+239783,2017,127268,Nissan,Rogue SV,Used,8994.0,black,gray,AWD,12.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,7,2.5,I4,16,0.0,0.0,fairfield,ohio
+120376,2023,71111,Dodge,Charger SXT,Used,20995.0,silver,black,RWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,cumming,georgia
+240245,2019,210864,Ford,F-150 Lariat,Used,16900.0,red,black,4WD,8.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,32,0.0,0.0,moonachie,new jersey
+73194,2021,47411,Nissan,Rogue S,Used,18990.0,white,gray,AWD,13.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,cuyahoga falls,ohio
+100538,2022,70508,Toyota,Highlander Hybrid XLE,Used,37000.0,white,gray,AWD,15.0,Hybrid,False,True,True,False,0.0,0.0,0.0,0.0,2,2.5,I4,16,0.0,0.0,cedar falls,iowa
+218883,2018,113681,Nissan,Altima 2.5 S,Used,8199.0,white,gray,FWD,14.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,fort pierce,florida
+114001,2020,121443,Ford,F-150 XL,Used,12995.0,red,gray,RWD,8.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,pompano beach,florida
+35318,2023,26019,Nissan,Rogue SV,Certified,26987.0,gray,gray,AWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,2,1.5,I3,12,0.0,0.0,christiansburg,virginia
+37200,2017,47708,Kia,Soul Base,Used,11455.0,white,gray,FWD,12.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,1.6,I4,16,0.0,0.0,clearwater,florida
+37073,2016,74670,Mazda,Mazda3 i Sport,Used,11988.0,gray,black,FWD,15.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,conover,north carolina
+215756,2019,82172,Honda,Accord LX,Used,20095.0,gray,yellow,FWD,14.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,7,1.5,I4,16,0.0,0.0,des moines,iowa
+89423,2024,21064,Toyota,Prius XLE,Certified,30763.0,gray,black,FWD,22.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,2,2.0,I4,16,0.0,0.0,bel air,maryland
+170263,2022,46349,GMC,Sierra 2500 Denali,Used,64000.0,white,black,4WD,6.0,Diesel,True,True,False,True,0.0,0.0,0.0,0.0,10,6.6,V8,32,0.0,0.0,columbus,georgia
+75263,2009,136399,Mercedes-Benz,C-Class Luxury,Used,4000.0,black,black,RWD,9.0,Flex Fuel,True,True,False,True,0.0,0.0,0.0,0.0,7,3.0,V6,24,0.0,0.0,orlando,florida
+188250,2023,46892,Ford,F-150 XLT,Used,36905.0,black,yellow,4WD,8.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,punta gorda,florida
+230500,2007,173105,Honda,Odyssey Touring,Used,3900.0,yellow,beige,FWD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,3.5,V6,16,0.0,0.0,decatur,georgia
+37357,2023,28655,Toyota,4Runner Limited,Used,47998.0,gray,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,5,4.0,V6,24,0.0,0.0,hurst,texas
+207404,2022,52950,Toyota,Corolla LE,Used,18862.0,silver,gray,FWD,14.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,2,1.8,I4,16,0.0,0.0,waxahachie,texas
+16387,2021,43170,Toyota,4Runner Trail Special Edition,Used,40991.0,gray,black,4WD,7.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,5,4.0,V6,24,0.0,0.0,fullerton,california
+207565,2022,32060,Chevrolet,Silverado 2500 Custom,Used,46900.0,red,black,4WD,6.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,6.6,V8,16,0.0,0.0,titusville,pennsylvania
+3273,2018,80736,Ford,Explorer,Used,17998.0,black,gray,RWD,9.0,Flex Fuel,False,True,True,True,0.0,0.0,0.0,0.0,8,3.29,I4,16,0.0,0.0,henderson,nevada
+185144,2010,198487,Toyota,Prius V,Used,5500.0,gray,blue,FWD,21.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,1.8,I4,16,0.0,0.0,worth,illinois
+114149,2012,180000,Mercedes-Benz,E-Class E 350,Used,6950.0,blue,beige,RWD,10.0,Gasoline,True,False,False,False,0.0,0.0,0.0,0.0,7,3.5,V6,24,0.0,0.0,Unknown_City,Unknown_State
+109383,2022,46449,Ford,Bronco Wildtrak,Certified,48980.0,blue,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,2.7,V6,24,0.0,0.0,watertown,wisconsin
+95043,2023,64213,Toyota,Tundra Limited,Used,38977.0,black,black,RWD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.4,V6,24,0.0,0.0,orlando,florida
+86699,2024,25480,Chevrolet,Tahoe Premier,Certified,62998.0,gray,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,5.3,V8,16,0.0,0.0,brooksville,florida
+214010,2022,55850,Dodge,Charger SXT,Used,20995.0,silver,black,RWD,10.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,broken arrow,oklahoma
+14904,2022,51567,Ford,Bronco Wildtrak,Used,45990.0,gray,black,4WD,7.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,10,2.7,V6,24,0.0,0.0,scottsdale,arizona
+221637,2021,76510,GMC,Sierra 1500 AT4,Used,37800.0,gray,black,4WD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,10,5.3,V8,16,0.0,0.0,barberton,ohio
+190982,2024,1783,Porsche,911 GT3,Certified,279900.0,white,black,RWD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,4.0,H6,24,0.0,0.0,dallas,texas
+60442,2025,2267,Chevrolet,Malibu 1LS,Certified,22322.0,black,black,FWD,14.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,2,1.5,I4,16,0.0,0.0,manassas,virginia
+92693,2023,28948,BMW,X3 xDrive30i,Certified,37308.0,white,beige,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,annapolis,maryland
+263149,2023,39187,Toyota,Corolla LE,Used,19815.0,white,black,FWD,16.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,2.0,I4,16,0.0,0.0,middletown,connecticut
+136306,2008,102601,Ford,F-350 Lariat,Used,20999.0,gray,yellow,4WD,5.4,Diesel,False,True,False,True,0.0,0.0,0.0,0.0,8,6.4,V8,16,0.0,0.0,bremerton,washington
+229583,2008,142502,Toyota,Tundra Grade,Used,8995.0,white,gray,RWD,8.3,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,3.12,V6,16,0.0,0.0,east islip,new york
+70635,2023,34157,Ford,F-150 Platinum,Used,50167.0,gray,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,tucson,arizona
+259749,2023,23659,Ford,Bronco Outer Banks,Used,42208.0,white,gray,4WD,9.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,10,2.3,I4,16,0.0,0.0,austin,texas
+139675,2012,101628,Chevrolet,Camaro 2SS,Used,19500.0,red,black,RWD,8.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,6.2,V8,16,0.0,0.0,manhattan,kansas
+105650,2017,73432,Jeep,Wrangler Unlimited Sport,Used,20795.0,white,black,4WD,8.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,5,3.6,V6,24,0.0,0.0,crest hill,illinois
+13485,2018,108295,Honda,Odyssey EX-L,Used,21598.0,gray,brown,FWD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,9,3.5,V6,24,0.0,0.0,cincinnati,ohio
+218484,2022,58367,Ford,Escape SEL,Used,19500.0,gray,black,FWD,17.0,Plug-in Hybrid,False,True,True,False,0.0,0.0,0.0,0.0,8,2.5,I4,12,0.0,0.0,north hampton,new hampshire
+141399,2015,105023,Ford,F-350 XL,Used,30685.0,gray,gray,4WD,6.0,Diesel,True,True,False,False,0.0,0.0,0.0,0.0,6,6.7,V8,32,0.0,0.0,albuquerque,new mexico
+256437,2023,17423,BMW,X3 sDrive30i,Used,34998.0,white,brown,RWD,11.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,fort myers,florida
+183949,2021,47742,Jeep,Wrangler Unlimited Sport,Used,28308.0,red,black,4WD,8.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,columbus,ohio
+246012,2022,34044,Ford,Edge SEL,Used,26391.0,gray,black,AWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,hibbing,minnesota
+162381,2021,89270,Toyota,Tundra SR5,Used,34988.0,black,black,4WD,6.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,6,5.7,V8,32,0.0,0.0,wareham,massachusetts
+76407,2018,157431,Chevrolet,Malibu 1LS,Used,8595.0,black,black,FWD,13.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,1.5,I4,16,0.0,0.0,los angeles,california
+164265,2022,68222,Ford,F-250 XLT,Used,50600.0,gray,gray,4WD,6.0,Diesel,False,True,False,False,0.0,0.0,0.0,0.0,10,6.7,V8,16,0.0,0.0,mesa,arizona
+204414,2022,49644,Ford,Bronco Outer Banks,Used,36999.0,orange,black,4WD,9.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,2.3,I4,24,0.0,0.0,fort pierce,florida
+170379,2024,6844,Ford,F-150 XLT,Used,49900.0,black,gray,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,5.0,V8,24,0.0,0.0,jacksonville,florida
+230021,2012,120158,Acura,MDX 3.7L Technology,Used,12998.0,gray,brown,AWD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,3.7,V6,24,0.0,0.0,utica,michigan
+41548,2024,13057,Toyota,Corolla XSE,Certified,26724.0,white,black,FWD,15.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,2.0,I4,16,0.0,0.0,gastonia,north carolina
+160698,2019,88577,Toyota,Highlander Limited Platinum,Used,27000.0,red,black,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,frankfort,illinois
+225925,2023,33511,Acura,MDX w/A-Spec Package,Used,45995.0,black,black,AWD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,gaithersburg,maryland
+111693,2024,24994,GMC,Sierra 2500 Denali Ultimate,Used,79137.0,white,white,4WD,5.0,Diesel,False,True,True,False,0.0,0.0,0.0,0.0,10,6.6,V8,32,0.0,0.0,gilbert,arizona
+258059,2020,30476,Toyota,Camry LE,Used,21900.0,white,black,FWD,14.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,fort mill,south carolina
+151974,2025,3969,Audi,Q5 45 S line quattro Premium,Used,52995.0,white,black,AWD,11.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,7,2.0,I4,16,0.0,0.0,evansville,indiana
+125961,2022,22408,Chevrolet,Silverado 1500 High Country,Used,53924.0,white,black,4WD,7.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,6.2,V8,16,0.0,0.0,raynham,massachusetts
+134918,2021,85984,Honda,Civic Sport,Used,18200.0,gray,black,FWD,14.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,2,2.0,I4,16,0.0,0.0,charleston,south carolina
+56610,2022,31180,Nissan,Rogue Platinum,Used,25995.0,white,gray,AWD,13.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,2,1.5,I3,12,0.0,0.0,wappingers falls,new york
+133357,2018,30643,Chevrolet,Malibu LT,Used,14021.0,gray,black,FWD,13.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,1.5,I4,16,0.0,0.0,buffalo,new york
+118307,2024,3675,Ford,Bronco Badlands,Used,57989.0,gray,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,2.7,V6,24,0.0,0.0,christiansburg,virginia
+7269,2024,49071,Toyota,4Runner SR5 Premium,Certified,44491.0,silver,gray,4WD,7.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,5,4.0,V6,24,0.0,0.0,hackensack,new jersey
+269007,2024,18595,Mazda,CX-5 2.5 S Select,Used,28000.0,black,black,AWD,11.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,eureka,california
+17854,2022,101958,Chevrolet,Tahoe Premier,Used,41993.0,black,black,4WD,7.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,10,6.2,V8,16,0.0,0.0,delavan,wisconsin
+259601,2015,95475,Audi,Q5 2.0T Premium Plus,Used,12500.0,white,black,AWD,10.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,aurora,colorado
+129129,2015,129386,Chevrolet,Silverado 3500 LT,Used,27995.0,red,black,4WD,5.0,Diesel,False,True,False,False,0.0,0.0,0.0,0.0,6,6.6,V8,32,0.0,0.0,manhattan,kansas
+233115,2022,6282,Ford,Mustang GT Premium,Used,44790.0,red,black,RWD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,10,5.0,V8,32,0.0,0.0,berlin,connecticut
+108572,2021,63390,Toyota,Sienna,Used,40322.0,silver,brown,FWD,15.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,san diego,california
+59186,2021,62150,Ford,F-150 XLT,Used,30999.0,blue,gray,4WD,5.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,roanoke,virginia
+40704,2024,14300,Chevrolet,Silverado 1500 High Country,Used,59000.0,white,black,4WD,7.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,5.3,V8,16,0.0,0.0,la porte,indiana
+83214,2021,58600,Toyota,Corolla SE,Used,18997.0,white,gray,FWD,15.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,10,2.0,I4,16,0.0,0.0,alexandria,virginia
+246585,2022,49929,Honda,Civic LX,Used,22985.0,white,black,FWD,15.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,1,2.0,I4,16,0.0,0.0,rome,georgia
+207185,2025,8193,Subaru,Forester Premium,Certified,30500.0,white,gray,AWD,13.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.5,H4,16,0.0,0.0,henrico,virginia
+22149,2013,136059,Jeep,Wrangler Unlimited Rubicon,Used,18500.0,gray,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,5,3.6,V6,24,0.0,0.0,denver,colorado
+21511,2020,48755,Toyota,Tacoma SR,Used,31550.0,black,gray,4WD,8.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,6,3.5,V6,16,0.0,0.0,bloomington,illinois
+57159,2025,12788,Honda,CR-V Hybrid Sport-L,Used,33903.0,gray,black,FWD,17.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,2,2.0,I4,16,0.0,0.0,grapevine,texas
+60714,2020,106228,Ford,Escape SE,Used,11775.0,gray,gray,FWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,1.5,I3,12,0.0,0.0,san antonio,texas
+171955,2019,118700,RAM,ProMaster 1500 Base,Used,18998.0,white,black,FWD,9.4,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,6,3.6,V6,16,0.0,0.0,wilmington,north carolina
+4697,2019,114314,Ford,F-150 Lariat,Used,25995.0,black,black,4WD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,2.7,V6,32,0.0,0.0,saint paul,minnesota
+238323,2025,847,Jeep,Grand Cherokee Limited X,Used,39999.0,silver,black,4WD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,yuma,arizona
+7573,2013,218821,Chevrolet,Malibu 2LT,Used,3495.0,blue,black,FWD,5.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,chesaning,michigan
+31583,2023,56359,Ford,Mustang EcoBoost Premium,Used,26988.0,black,black,RWD,4.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,10,2.3,I4,16,0.0,0.0,eaton,ohio
+264285,2023,20153,Toyota,Highlander XSE,Certified,42557.0,gray,red,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.4,I4,16,0.0,0.0,dorchester,massachusetts
+26145,2018,48569,Audi,Q5 2.0T Tech Premium,Used,20995.0,blue,beige,AWD,11.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,7,2.0,I4,16,0.0,0.0,san diego,california
+98180,2012,119300,Volkswagen,Jetta SportWagen TDI,Used,7995.0,silver,gray,FWD,14.0,Diesel,False,True,False,True,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,chandler,arizona
+168986,2024,20320,Ford,Edge SE,Certified,24853.0,gray,yellow,AWD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,freeport,illinois
+57759,2015,119185,Chevrolet,Malibu 2LT,Used,11995.0,white,black,FWD,13.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,fuquay varina,north carolina
+27163,2017,168757,Toyota,RAV4 LE,Used,13995.0,gray,black,FWD,11.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,evansville,indiana
+157656,2022,12148,Ford,Mustang Mach-E CALIFORNIA ROUTE 1,Certified,36975.0,white,black,4WD,0.0,Electric,False,True,True,True,11.0,45.0,91.0,481.1,1,0.0,NA,0,45.0,39.0,clovis,california
+253427,2017,49584,Ford,Mustang GT Premium,Used,28395.0,red,black,RWD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,5.0,V8,32,0.0,0.0,hillside,new jersey
+112312,2018,105326,Toyota,Tacoma SR,Used,25900.0,black,gray,4WD,8.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,painesville,ohio
+159203,2020,66554,Kia,Soul EX,Used,16295.0,white,black,FWD,13.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,2,2.0,I4,16,0.0,0.0,birmingham,alabama
+22973,2022,26404,Toyota,Highlander XLE,Used,34895.0,gray,black,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,islip,new york
+80134,2021,28035,Volkswagen,ID.4 Pro S,Certified,22192.0,gray,black,RWD,0.0,Electric,False,True,True,True,7.0,30.0,77.0,390.2,1,0.0,NA,0,44.0,38.0,san jose,california
+151680,2019,52750,Dodge,Challenger R/T Scat Pack,Used,32995.0,green,black,RWD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,6.4,I6,16,0.0,0.0,fontana,california
+162155,2023,52007,Ford,Edge SEL,Used,21488.0,black,black,AWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,daly city,california
+101489,2020,58866,Ford,Explorer ST,Certified,30750.0,black,black,4WD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.0,V6,24,0.0,0.0,culpeper,virginia
+245056,2022,102708,Toyota,Highlander Hybrid Platinum,Used,36400.0,white,gray,AWD,15.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,2,2.5,I4,16,0.0,0.0,freeport,illinois
+62865,2025,5768,Porsche,Panamera 4,Used,112990.0,white,black,AWD,9.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.9,V6,24,0.0,0.0,bellevue,washington
+263340,2012,117882,GMC,Sierra 1500 SLE,Used,15250.0,gray,black,4WD,8.0,Flex Fuel,True,True,False,True,0.0,0.0,0.0,0.0,6,5.3,V8,16,0.0,0.0,du bois,pennsylvania
+107200,2012,106000,Audi,Q5 2.0T Premium Plus,Used,7995.0,white,black,AWD,10.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,sarasota,florida
+126107,2021,42239,Jeep,Gladiator Sport,Used,27222.0,black,black,4WD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,akron,ohio
+56093,2024,15,Chevrolet,Silverado 3500 WT,Used,59700.0,white,black,4WD,6.0,Diesel,False,True,True,False,0.0,0.0,0.0,0.0,10,6.6,V8,32,0.0,0.0,plainfield,indiana
+117465,2001,82835,Mercedes-Benz,SLK-Class SLK230 Kompressor,Used,8000.0,white,black,RWD,10.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,2.3,I4,16,0.0,0.0,kirkland,washington
+113882,2017,134919,Honda,CR-V EX,Used,15336.0,gray,black,AWD,13.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,1.5,I4,16,0.0,0.0,anoka,minnesota
+70968,2024,38596,Mazda,CX-5 2.5 S Preferred,Used,26141.0,gray,beige,AWD,11.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,spring,texas
+117025,2019,103080,Ford,Transit Connect XL,Used,15887.0,white,black,FWD,5.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,lincoln,illinois
+75404,2019,111336,RAM,ProMaster 2500 High Roof,Used,14995.0,white,black,FWD,10.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,3.6,V6,24,0.0,0.0,bronx,new york
+177396,2014,103051,Subaru,Forester 2.5i Premium,Used,12500.0,gray,gray,AWD,12.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,2.5,H4,16,0.0,0.0,charlevoix,michigan
+50005,2022,36569,Honda,Civic EX,Certified,24865.0,white,black,FWD,16.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,2,1.5,I4,16,0.0,0.0,saint louis,missouri
+243472,2025,24318,Honda,CR-V Hybrid Sport-L,Used,37500.0,white,black,AWD,16.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,2,2.0,I4,16,0.0,0.0,evansville,indiana
+237849,2022,39231,GMC,Sierra 2500 Denali,Used,63802.0,black,black,4WD,6.0,Diesel,False,True,False,False,0.0,0.0,0.0,0.0,10,6.6,V8,32,0.0,0.0,waterbury,connecticut
+187054,2023,61170,BMW,X3 xDrive30i,Used,32999.0,black,brown,AWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,attleboro,massachusetts
+18339,2016,118571,Dodge,Challenger SXT,Used,11899.0,white,black,RWD,10.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,raleigh,north carolina
+184578,2024,26737,Honda,CR-V Hybrid Sport-L,Used,36335.0,white,black,AWD,16.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,2,2.0,I4,16,0.0,0.0,franklin,tennessee
+146575,2021,45091,Chrysler,Pacifica Touring,Used,10795.0,white,black,FWD,10.0,Gasoline,False,False,False,True,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,bedford,virginia
+212258,2014,60635,Jeep,Wrangler Unlimited Rubicon,Used,25000.0,gray,gray,4WD,3.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,5,3.6,V6,24,0.0,0.0,arroyo grande,california
+250874,2024,33429,Ford,Edge Titanium,Used,30770.0,black,black,AWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,marshfield,wisconsin
+133987,2023,10513,Chevrolet,Corvette Z06,Used,118939.0,white,white,RWD,7.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,5.5,V8,32,0.0,0.0,plant city,florida
+268399,2016,81059,Chevrolet,Tahoe LT,Used,22987.0,silver,gray,RWD,8.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,5.3,V8,16,0.0,0.0,ferndale,washington
+266410,2020,35458,Ford,Transit-350 Base,Used,35495.0,white,black,AWD,9.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,shrewsbury,massachusetts
+74222,2013,148534,Toyota,Sienna LE,Used,8999.0,black,beige,FWD,9.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,birmingham,alabama
+156724,2024,97,Ford,Transit-350 Base,Used,56995.0,white,gray,AWD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,portsmouth,new hampshire
+146873,2012,159275,Toyota,Highlander Limited,Used,13470.0,white,yellow,FWD,9.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,5,3.5,V6,24,0.0,0.0,murfreesboro,tennessee
+22474,2022,36505,Honda,Accord Sport 1.5T,Used,23490.0,white,black,FWD,14.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,10,1.5,I4,16,0.0,0.0,valley stream,new york
+79644,2018,25250,Porsche,911,Certified,178500.0,gray,black,4WD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,7,3.0,H6,24,0.0,0.0,burlingame,california
+18773,2010,185235,Toyota,Prius II,Used,6995.0,gray,gray,FWD,21.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,2,1.8,I4,16,0.0,0.0,winnsboro,louisiana
+154502,2018,119342,Ford,Escape SE,Used,10900.0,blue,black,4WD,11.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,1.5,I4,16,0.0,0.0,pacific,missouri
+65497,2021,119511,Chevrolet,Silverado 1500 LT Trail Boss,Used,29499.0,gray,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,5.3,V8,16,0.0,0.0,okemos,michigan
+266280,2022,63092,Toyota,RAV4 XLE,Used,26495.0,white,black,FWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,opelousas,louisiana
+241201,2025,3189,Mercedes-Benz,C-Class C 300 4MATIC,Certified,47554.0,white,beige,AWD,12.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,9,2.0,I4,16,0.0,0.0,littleton,colorado
+100690,2017,107899,Chevrolet,Silverado 1500 Custom,Used,18495.0,black,gray,4WD,8.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,5.3,V8,16,0.0,0.0,east windsor,connecticut
+133039,2022,57345,Chevrolet,Malibu FWD LT,Used,19895.0,white,black,FWD,14.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,1.5,I4,16,0.0,0.0,fort wayne,indiana
+211775,2021,31918,Chevrolet,Malibu 1LS,Used,20995.0,white,gray,FWD,14.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,2,1.5,I4,16,0.0,0.0,columbus,ohio
+147831,2024,14590,Ford,Edge Titanium,Used,33999.0,gray,black,AWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,dayton,ohio
+53273,2024,23059,Chevrolet,Silverado 3500 LT,Used,63750.0,white,black,4WD,6.0,Diesel,False,True,True,True,0.0,0.0,0.0,0.0,10,6.6,V8,32,0.0,0.0,harvard,illinois
+41873,2016,122917,Toyota,Corolla LE,Used,13881.0,gray,white,FWD,14.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,7,1.8,I4,16,0.0,0.0,costa mesa,california
+263570,2021,40127,Jeep,Wrangler Rubicon,Used,32487.0,white,black,4WD,9.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,manchester,new hampshire
+185404,2022,25163,Ford,F-150 XLT,Used,39899.0,gray,black,4WD,9.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,10,2.7,V6,24,0.0,0.0,san antonio,texas
+228467,2021,5433,Porsche,911 Targa 4S,Used,199995.0,white,red,AWD,9.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,7,3.0,H6,24,0.0,0.0,trenton,new jersey
+39884,2022,11030,GMC,Sierra 2500 SLE,Used,54995.0,white,black,4WD,5.0,Diesel,False,True,True,True,0.0,0.0,0.0,0.0,10,6.6,V8,32,0.0,0.0,perry,florida
+186914,2022,27477,Toyota,Corolla LE,Certified,17977.0,white,black,FWD,14.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,2,1.8,I4,16,0.0,0.0,west palm beach,florida
+256507,2025,800,GMC,Sierra 1500 Denali,Used,66291.0,gray,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,6.2,V8,16,0.0,0.0,peoria,arizona
+175652,2021,69140,Mazda,Mazda3 FWD w/Select Package,Used,16000.0,black,black,FWD,13.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,rockville,maryland
+8310,2024,41834,BMW,X3 xDrive30i,Used,33495.0,gray,black,AWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,portland,oregon
+4333,2018,105368,Ford,Explorer Base,Used,14000.0,black,gray,4WD,8.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,3.5,V6,16,0.0,0.0,richmond,kentucky
+16698,2023,59495,Audi,Q5 45 S line Premium Plus,Used,24895.0,gray,black,AWD,11.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,7,2.0,I4,16,0.0,0.0,bloomfield,new jersey
+16242,2022,15579,Ford,Edge SEL,Used,25611.0,gray,black,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,charlotte,north carolina
+256191,2022,34070,Nissan,Rogue SV,Certified,24969.0,gray,gray,AWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,2,1.5,I3,12,0.0,0.0,north attleboro,massachusetts
+100273,2018,126184,Chevrolet,Malibu LT,Used,8299.0,white,black,FWD,6.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,1.5,I4,16,0.0,0.0,orlando,florida
+200759,2019,89806,Honda,Odyssey LX,Used,18988.0,gray,gray,FWD,10.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,9,3.5,V6,24,0.0,0.0,alameda,california
+37854,2019,28734,Porsche,Cayenne Base,Used,41380.0,gray,black,AWD,16.0,Plug-in Hybrid,False,True,False,True,0.0,0.0,0.0,0.0,8,3.0,V6,24,0.0,0.0,holiday,florida
+70410,2018,71026,Honda,Civic Si,Used,19250.0,white,black,FWD,14.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,1.5,I4,16,0.0,0.0,grove city,ohio
+241183,2021,113084,Subaru,Forester Premium,Used,18995.0,gray,black,AWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.5,H4,16,0.0,0.0,webster,new york
+6367,2023,25482,Honda,CR-V EX AWD,Certified,28600.0,white,black,AWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,1.5,I4,16,0.0,0.0,new rochelle,new york
+267803,2023,72433,Chevrolet,Traverse LT Leather,Used,32104.0,black,black,AWD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,mount pleasant,michigan
+108296,2015,98891,Toyota,Tundra SR5,Used,29995.0,gray,black,4WD,6.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,5.7,V8,32,0.0,0.0,naugatuck,connecticut
+192889,2011,179170,Toyota,Sienna LE,Used,6999.0,white,gray,FWD,9.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,kyle,texas
+45997,2022,74772,BMW,X5 sDrive40i,Used,33888.0,gray,black,RWD,10.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,8,3.0,I6,24,0.0,0.0,san jose,california
+229225,2020,118118,Toyota,Corolla L,Used,14990.0,white,gray,FWD,14.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,1.8,I4,16,0.0,0.0,corona,california
+58834,2014,76100,Ford,Mustang,Used,17998.0,silver,black,RWD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,3.0500000000000034,I4,16,0.0,0.0,newport news,virginia
+229463,2023,4144,Jeep,Gladiator Mojave,Used,38494.0,red,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,clermont,florida
+216040,2021,35384,Jeep,Wrangler Unlimited Sport,Used,27995.0,gray,black,4WD,9.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,8,3.6,V6,16,0.0,0.0,plano,texas
+235944,2019,47596,Toyota,4Runner TRD Off Road Premium,Used,36125.0,black,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,5,4.0,V6,24,0.0,0.0,aurora,colorado
+68467,2023,30130,Volkswagen,ID.4 Pro S,Used,25593.0,gray,black,AWD,0.0,Electric,False,True,False,True,7.0,30.0,77.0,407.1,1,0.0,NA,0,49.0,42.0,canton,ohio
+220958,2020,43055,Honda,Accord Sport 1.5T,Used,21298.0,white,black,FWD,14.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,7,1.5,I4,16,0.0,0.0,lincoln,nebraska
+89861,2024,2336,Toyota,Corolla LE,Used,23998.0,blue,gray,RWD,16.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,10,2.0,I4,16,0.0,0.0,buena park,california
+168502,2024,7401,Honda,Accord Hybrid EX-L,Used,31998.0,gray,gray,FWD,20.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,1,2.0,I4,16,0.0,0.0,duncansville,pennsylvania
+229438,2017,100096,Jeep,Wrangler Unlimited Sahara,Used,21500.0,gray,black,4WD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,5,3.6,V6,24,0.0,0.0,hickory,north carolina
+206918,2013,141033,Mercedes-Benz,E-Class E 350 4MATIC,Used,8995.0,gray,black,AWD,10.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,7,3.5,V6,24,0.0,0.0,medina,ohio
+267701,2018,95308,Nissan,Altima 2.5 SL,Used,10500.0,gray,gray,FWD,14.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,sewickley,pennsylvania
+247681,2023,19158,Acura,MDX Technology Package,Certified,41488.0,white,black,FWD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,glendale,california
+136119,2022,30030,Porsche,Cayenne AWD,Certified,59995.0,gray,black,AWD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.0,V6,24,0.0,0.0,arlington,virginia
+1253,2024,5727,BMW,M4 Competition xDrive,Used,83999.0,gray,black,AWD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.0,I6,24,0.0,0.0,fort lauderdale,florida
+67362,2019,77112,Mercedes-Benz,C-Class C300 Coupe,Used,20495.0,black,black,RWD,11.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,duluth,georgia
+12642,2021,60270,Audi,Q5 45 Premium Plus,Used,24903.0,gray,black,AWD,11.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,7,2.0,I4,16,0.0,0.0,huntsville,alabama
+179555,2016,55948,Kia,Soul,Used,12998.0,white,black,RWD,11.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,1.9600000000000002,I4,16,0.0,0.0,lafayette,louisiana
+2500,2021,44834,Chevrolet,Camaro 1LS,Used,19690.0,black,black,RWD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,miami,florida
+26081,2020,71642,Chevrolet,Tahoe Premier,Used,41947.0,black,yellow,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,6.2,V8,16,0.0,0.0,gloucester,virginia
+39429,2021,61676,Toyota,Sienna XSE 7 Passenger,Used,39999.0,white,gray,FWD,15.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,abilene,texas
+163404,2021,44894,Toyota,Sienna Limited 7-Passenger,Used,42656.0,white,beige,AWD,15.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,pasco,washington
+31444,2022,28650,Toyota,Tacoma TRD Sport,Used,34845.0,white,gray,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,springfield,tennessee
+134566,2024,20709,Toyota,Tundra SR5,Used,43854.0,gray,gray,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.4,V6,24,0.0,0.0,delray beach,florida
+14862,2018,85879,Jeep,Wrangler Unlimited Rubicon 4x4,Certified,28350.0,blue,black,4WD,9.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,batesville,arkansas
+204170,2018,66940,Jeep,Wrangler Unlimited Sport,Used,22695.0,black,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,dearborn,michigan
+257811,2017,40934,Honda,Civic Sport,Used,19795.0,gray,black,FWD,14.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,1.5,I4,16,0.0,0.0,boise,idaho
+15538,2014,79049,Mercedes-Benz,E-Class E 250 BlueTEC,Used,15995.0,white,black,RWD,16.0,Diesel,True,True,False,True,0.0,0.0,0.0,0.0,7,2.1,I4,16,0.0,0.0,san antonio,texas
+118194,2014,75758,Porsche,Cayenne S,Used,17995.0,gray,black,AWD,8.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,8,4.8,V8,32,0.0,0.0,decatur,georgia
+175054,2013,136380,Chevrolet,Camaro 1LT,Used,10499.0,red,gray,RWD,10.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,3.6,V6,24,0.0,0.0,tampa,florida
+267788,2022,22489,Honda,Pilot Touring 8-Passenger,Used,29490.0,blue,black,FWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,9,3.5,V6,24,0.0,0.0,miami,florida
+16352,2012,70560,Jeep,Wrangler Unlimited Sahara,Used,13495.0,white,black,4WD,7.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,5,3.6,V6,24,0.0,0.0,redford,michigan
+13557,2021,65954,Toyota,Prius 20th Anniversary Edition,Used,20827.0,red,black,FWD,22.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,1.8,I4,16,0.0,0.0,valencia,california
+171906,2015,113849,BMW,X5 xDrive35i,Used,11099.0,white,black,AWD,4.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,3.0,I6,24,0.0,0.0,orlando,florida
+17699,2015,76540,Jeep,Grand Cherokee Altitude,Used,16991.0,white,black,4WD,9.0,Flex Fuel,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,austin,texas
+202316,2022,5477,Ford,Maverick XL,Used,27895.0,black,black,AWD,11.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,farmingdale,new york
+223336,2023,13497,Nissan,Rogue SV,Used,25892.0,gray,gray,AWD,13.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,2,1.5,I3,12,0.0,0.0,downers grove,illinois
+270925,2022,32405,BMW,330e Base,Used,30999.0,gray,black,RWD,11.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,walnut creek,california
+22410,2020,62735,Toyota,4Runner Limited,Used,37229.0,white,yellow,4WD,7.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,5,4.0,V6,24,0.0,0.0,virginia beach,virginia
+33579,2022,17168,Nissan,Altima 2.5 SV,Used,22993.0,red,gray,AWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,1,2.5,I4,16,0.0,0.0,eden prairie,minnesota
+91106,2019,78275,Honda,Odyssey EX-L,Used,24998.0,silver,brown,RWD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,9,3.5,V6,24,0.0,0.0,buena park,california
+199288,2023,1823,Chevrolet,Corvette Z06,Used,128890.0,blue,gray,RWD,7.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,5.5,V8,32,0.0,0.0,carrollton,texas
+225281,2023,42583,Jeep,Grand Cherokee Limited X,Used,28570.0,white,black,4WD,8.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,perry,georgia
+251724,2024,20143,Volvo,XC90 Recharge Plug-In Hybrid T8 Ultimate Bright Theme 7-Seater,Certified,61172.0,black,gray,AWD,9.0,Plug-in Hybrid,False,True,False,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,houston,texas
+76195,2020,126019,Chevrolet,Silverado 1500 WT,Used,21900.0,white,black,4WD,3.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,6,5.3,V8,12,0.0,0.0,centreville,alabama
+1929,2022,93263,Toyota,Highlander XSE,Used,31995.0,black,black,FWD,11.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,rogers,arkansas
+104224,2016,103245,Honda,Odyssey EX-L,Used,15950.0,white,gray,FWD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,knoxville,tennessee
+143311,2024,4877,Toyota,RAV4 Prime XSE,Certified,48500.0,white,black,AWD,18.3,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,bel air,maryland
+66965,2018,45369,Toyota,RAV4 XLE,Used,22395.0,white,gray,FWD,11.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,nash,texas
+245354,2019,33791,Honda,CR-V LX,Used,22998.0,gray,black,RWD,12.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,2.4,I4,16,0.0,0.0,pensacola,florida
+267822,2020,45997,Ford,Explorer Platinum,Used,29920.0,gray,yellow,4WD,9.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,10,3.0,V6,24,0.0,0.0,schaumburg,illinois
+92843,2025,4220,Ford,F-150 Lariat,Used,70200.0,gray,black,4WD,8.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,denver,colorado
+66304,2016,15558,Chevrolet,Corvette Z06,Used,72995.0,white,red,RWD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,6.2,V8,16,0.0,0.0,joliet,illinois
+186448,2014,69421,BMW,X3 xDrive28i,Used,11486.0,white,yellow,AWD,10.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,chicago,illinois
+160861,2021,44658,Dodge,Challenger R/T Scat Pack,Used,44994.0,white,black,RWD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,6.4,I6,16,0.0,0.0,pelham,alabama
+145205,2023,28665,Honda,Civic LX,Certified,23498.0,silver,black,FWD,15.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,1,2.0,I4,16,0.0,0.0,las vegas,nevada
+120223,2017,79691,Jeep,Wrangler Unlimited Sahara,Used,22995.0,white,yellow,4WD,8.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,5,3.6,V6,24,0.0,0.0,memphis,tennessee
+103210,2023,64011,Toyota,Sienna XLE 8 Passenger,Used,32000.0,white,gray,FWD,15.0,Gasoline,False,False,False,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,san antonio,texas
+569,2021,25277,Jeep,Gladiator Sport,Used,30000.0,black,black,4WD,8.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,grand blanc,michigan
+145958,2024,9825,Chevrolet,Silverado 1500 LT Trail Boss,Used,59887.0,black,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,5.3,V8,16,0.0,0.0,fort pierce,florida
+119768,2021,42889,Mercedes-Benz,C-Class Sedan,Used,25691.0,white,black,RWD,12.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,9,2.0,I4,16,0.0,0.0,houston,texas
+238021,2024,34263,RAM,ProMaster 1500 Low Roof,Used,30000.0,white,black,FWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,jacksonville,florida
+197029,2015,47504,Audi,Q5 Premium Plus,Used,17998.0,black,black,4WD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,2.5100000000000002,I4,16,0.0,0.0,riverside,california
+133898,2021,11640,Porsche,911 Turbo S,Certified,238993.0,gray,red,AWD,7.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,3.8,H6,24,0.0,0.0,arlington,virginia
+53385,2017,184411,Ford,Explorer sport,Used,9500.0,red,black,4WD,8.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,suamico,wisconsin
+249821,2017,89875,Jeep,Wrangler Unlimited Sport,Certified,15995.0,white,black,4WD,8.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,5,3.6,V6,24,0.0,0.0,miami,florida
+259447,2013,120000,Jeep,Wrangler Unlimited Sport,Used,19000.0,black,black,4WD,7.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,5,3.6,V6,24,0.0,0.0,Unknown_City,Unknown_State
+164168,2023,58959,Acura,MDX Technology,Used,41998.0,white,brown,AWD,9.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,wichita,kansas
+174043,2023,47271,Toyota,Camry SE,Used,24000.0,white,black,FWD,14.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,concord,california
+260885,2017,136009,Chevrolet,Silverado 1500 1LT,Used,17934.0,white,gray,4WD,4.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,4.3,V6,16,0.0,0.0,hinckley,minnesota
+128131,2020,43240,GMC,Sierra 1500 SLE,Used,30950.0,gray,black,4WD,8.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,10,5.3,V8,16,0.0,0.0,mesa,arizona
+107312,2025,2370,Honda,CR-V LX 2WD,Used,29662.0,white,gray,FWD,13.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,1.5,I4,16,0.0,0.0,monrovia,california
+115734,2012,70121,Mercedes-Benz,E-Class E 350,Used,13000.0,white,beige,RWD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,7,3.5,V6,24,0.0,0.0,Unknown_City,Unknown_State
+115344,2018,77245,Ford,Edge Titanium,Used,16990.0,gray,black,FWD,10.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,augusta,georgia
+1472,2022,37760,Honda,Pilot AWD Special Edition,Certified,32719.0,white,black,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,9,3.5,V6,24,0.0,0.0,new rochelle,new york
+166216,2020,113012,Toyota,RAV4 Hybrid SE,Used,23500.0,black,black,AWD,17.0,Hybrid,True,True,True,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,maumee,ohio
+44964,2008,127411,Ford,Focus S,Used,4995.0,green,beige,FWD,13.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,5,2.0,I4,16,0.0,0.0,brookville,ohio
+100632,2023,33195,Toyota,4Runner TRD Pro,Used,53500.0,gray,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,5,4.0,V6,24,0.0,0.0,torrance,california
+270435,2018,52298,Honda,Pilot EX,Used,22992.0,gray,gray,AWD,9.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,springfield,new jersey
+255226,2014,61570,Jeep,Wrangler Unlimited Rubicon,Used,39900.0,white,black,4WD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,5,3.6,V6,24,0.0,0.0,grand rapids,michigan
+148446,2023,41453,Chevrolet,Tahoe RST,Certified,58551.0,white,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,5.3,V8,16,0.0,0.0,wilmington,delaware
+265606,2023,29739,Ford,Mustang Mach-E GT,Used,35577.0,gray,gray,AWD,0.0,Electric,False,True,True,True,10.0,45.0,91.0,421.6,1,0.0,NA,0,38.0,33.0,englewood,colorado
+149179,2021,113718,Jeep,Gladiator Willys 4x4,Used,25761.0,gray,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,metairie,louisiana
+48701,2025,10476,RAM,ProMaster 2500 Tradesman,Used,37992.0,white,black,FWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,fort myers,florida
+126278,2018,84588,Honda,Odyssey EX-L,Used,20691.0,gray,beige,FWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,9,3.5,V6,24,0.0,0.0,tampa,florida
+264850,2008,178079,Ford,F-350 XL,Used,13999.0,white,gray,4WD,6.0,Diesel,True,True,True,False,0.0,0.0,0.0,0.0,5,6.4,V8,32,0.0,0.0,chantilly,virginia
+183147,2023,23555,Ford,Escape Active,Used,23500.0,white,black,FWD,6.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,1.5,I3,12,0.0,0.0,palmdale,california
+150333,2023,47805,GMC,Sierra 1500 Denali,Used,53775.0,gray,black,4WD,8.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,10,5.3,V8,16,0.0,0.0,highland,indiana
+119873,2022,61608,Acura,MDX Base,Used,30500.0,white,beige,AWD,9.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,goshen,new york
+206551,2022,22444,Jeep,Grand Cherokee Limited X,Used,27837.0,white,black,4WD,9.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,exton,pennsylvania
+187878,2018,132061,Ford,F-250 XLT,Used,36995.0,gray,gray,4WD,8.0,Diesel,False,True,True,False,0.0,0.0,0.0,0.0,6,6.7,V8,16,0.0,0.0,lamar,mississippi
+135286,2022,34019,Dodge,Charger SXT,Used,26995.0,silver,black,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,beckley,west virginia
+160105,2017,59134,Dodge,Charger SXT,Used,19999.0,gray,black,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,tinley park,illinois
+1244,2023,24280,Chevrolet,Traverse LT Cloth,Certified,32218.0,white,black,FWD,10.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,vandalia,ohio
+3964,2021,36704,Toyota,Highlander Platinum,Used,37990.0,black,beige,FWD,11.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,miami,florida
+252987,2022,49797,Acura,MDX Advance,Used,38970.0,white,black,AWD,9.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,marietta,georgia
+156961,2024,8115,Chevrolet,Traverse RS,Used,52490.0,red,black,AWD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,fairmont,minnesota
+180879,2021,22909,Ford,Escape S,Used,16995.0,white,gray,FWD,13.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,1.5,I3,12,0.0,0.0,oklahoma city,oklahoma
+106692,2023,32603,Mazda,CX-5 2.5 S Select,Used,22149.0,gray,black,AWD,11.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,fort lauderdale,florida
+262197,2022,61628,Honda,CR-V AWD Touring,Used,27180.0,gray,black,AWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,1.5,I4,16,0.0,0.0,elizabeth,new jersey
+161136,2021,98922,GMC,Sierra 1500 AT4,Used,39495.0,white,black,4WD,10.0,Diesel,False,True,True,True,0.0,0.0,0.0,0.0,10,3.0,I6,16,0.0,0.0,pine bluff,arkansas
+19704,2016,121767,Chevrolet,Malibu Premier,Used,9900.0,white,black,FWD,12.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,randolph,ohio
+68422,2024,11256,Toyota,RAV4 Hybrid XLE,Used,32900.0,gray,black,AWD,17.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,2,2.5,I4,16,0.0,0.0,middletown,connecticut
+7372,2024,18378,Honda,Civic Sport,Used,24788.0,white,black,FWD,14.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,north dartmouth,massachusetts
+187125,2021,33817,Lexus,ES 350 F Sport,Used,36338.0,white,white,FWD,11.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,chicago,illinois
+176440,2023,32020,Ford,Explorer XLT,Certified,32499.0,black,yellow,4WD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,2.3,I4,16,0.0,0.0,forest lake,minnesota
+237217,2025,6206,Ford,F-150 Lariat,Used,59498.0,black,black,4WD,9.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,oklahoma city,oklahoma
+229057,2021,91199,Jeep,Wrangler Unlimited Sport,Used,28761.0,white,black,4WD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,granbury,texas
+106477,2025,11439,Chevrolet,Traverse LT,Certified,37999.0,gray,black,FWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,humble,texas
+41056,2022,36252,Mazda,CX-5 2.5 S Select,Used,23550.0,blue,black,AWD,11.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,boulder,colorado
+149976,2020,61400,Jeep,Wrangler Sport,Used,31999.0,gray,black,4WD,9.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,aransas pass,texas
+263607,2021,47369,Porsche,Cayenne Base,Used,44998.0,white,white,AWD,9.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,3.0,V6,24,0.0,0.0,minneapolis,minnesota
+177529,2025,1028,Honda,CR-V Hybrid Sport-L,Certified,35777.0,white,black,AWD,16.0,Hybrid,False,True,False,False,0.0,0.0,0.0,0.0,2,2.0,I4,16,0.0,0.0,chicago,illinois
+143515,2020,76896,Chevrolet,Traverse LT Cloth,Used,24759.0,black,black,AWD,9.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,chillicothe,ohio
+227849,2022,49042,Toyota,RAV4 Prime SE,Used,30470.0,white,black,AWD,13.6,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,vestal,new york
+7182,2023,49338,Chevrolet,Malibu LT,Used,17320.0,white,black,FWD,13.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,6,1.5,I4,16,0.0,0.0,duluth,georgia
+73815,2023,15969,Chevrolet,Traverse RS,Used,41499.0,gray,white,AWD,9.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,baxter,minnesota
+118841,2020,27308,Honda,Pilot Touring 8-Passenger,Used,32987.0,gray,black,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,9,3.5,V6,24,0.0,0.0,montgomeryville,pennsylvania
+137347,2018,82500,Mercedes-Benz,Sprinter 2500 Standard Roof,Used,32900.0,white,black,RWD,10.0,Diesel,True,True,False,True,0.0,0.0,0.0,0.0,5,3.0,V6,24,0.0,0.0,Unknown_City,Unknown_State
+149125,2024,15394,Chevrolet,Malibu 2LT,Used,26472.0,gray,black,FWD,14.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,1.5,I4,16,0.0,0.0,hardinsburg,kentucky
+119302,2019,116487,Toyota,RAV4 Hybrid Hybrid Limited,Used,24799.0,blue,gray,AWD,17.0,Hybrid,False,True,False,False,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,burnsville,minnesota
+244379,2019,52000,Dodge,Challenger R/T,Used,20995.0,red,black,RWD,9.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,5.7,I5,16,0.0,0.0,logan,utah
+186360,2025,15327,Toyota,Camry LE,Used,28998.0,gray,gray,RWD,22.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,birmingham,alabama
+116349,2024,35437,Chevrolet,Malibu LT,Used,19897.0,gray,black,FWD,14.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,6,1.5,I4,16,0.0,0.0,middlesboro,kentucky
+85378,2020,90685,Honda,Accord LX 1.5T,Used,18495.0,yellow,yellow,FWD,14.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,7,1.5,I4,16,0.0,0.0,miamisburg,ohio
+151229,2022,84209,Honda,CR-V Hybrid Touring,Used,25900.0,white,gray,AWD,16.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,2,2.0,I4,16,0.0,0.0,rochester,new york
+170805,2018,90903,Ford,F-150 Raptor,Used,38998.0,black,black,4WD,7.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,viroqua,wisconsin
+31684,2023,19248,Subaru,Forester Wilderness,Used,30809.0,white,gray,AWD,11.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.5,H4,16,0.0,0.0,saint augustine,florida
+231687,2023,11444,Toyota,4Runner TRD Pro,Used,57994.0,yellow,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,5,4.0,V6,24,0.0,0.0,chantilly,virginia
+105347,2023,32550,Ford,Transit-250 Base,Used,32998.0,white,black,RWD,8.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,pittsburgh,pennsylvania
+139626,2016,82171,Ford,F-150 XLT,Certified,23860.0,black,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,new prague,minnesota
+121726,2017,30942,Chevrolet,Bolt EV Premier,Used,6988.0,gray,gray,FWD,0.0,Electric,False,True,True,False,9.0,60.0,60.0,389.4,1,0.0,NA,0,54.0,47.0,portland,oregon
+148521,2018,96048,Subaru,Forester 2.5i Limited,Used,16000.0,gray,gray,AWD,12.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,2.5,H4,16,0.0,0.0,hooksett,new hampshire
+28085,2023,82816,Chrysler,Pacifica Limited,Used,26390.0,white,black,FWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,arcadia,wisconsin
+87263,2016,80215,Acura,MDX SH-AWD,Used,18967.0,black,black,AWD,9.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,9,3.5,V6,24,0.0,0.0,san jose,california
+88639,2021,62506,Chevrolet,Silverado 1500 Custom,Certified,27995.0,white,black,4WD,9.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,2.7,I4,16,0.0,0.0,clinton township,michigan
+143532,2025,4320,Porsche,Cayenne Base,Certified,89900.0,black,black,AWD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.0,V6,24,0.0,0.0,santa barbara,california
+115324,2023,20555,Ford,Edge SEL,Used,26240.0,white,black,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,fort wayne,indiana
+155710,2023,15858,Chevrolet,Traverse LT Leather,Used,30990.0,white,black,FWD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,miami,florida
+187727,2023,16810,Jeep,Wrangler Rubicon,Certified,41955.0,blue,black,4WD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,red lion,pennsylvania
+18267,2022,23394,Honda,CR-V AWD EX-L,Used,29545.0,white,white,AWD,13.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,1.5,I4,16,0.0,0.0,fairless hills,pennsylvania
+46425,2023,27892,Honda,Odyssey EX-L,Used,35073.0,white,black,FWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,tucson,arizona
+89745,2024,31700,Ford,Escape Active,Used,22510.0,white,black,AWD,12.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,1.5,I3,12,0.0,0.0,hooksett,new hampshire
+229986,2022,40572,Audi,Q5 45 S line Premium Plus,Used,25288.0,white,black,AWD,11.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,7,2.0,I4,16,0.0,0.0,yonkers,new york
+56185,2024,15883,Acura,MDX Type S Advance Package,Used,57490.0,gray,black,AWD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.0,V6,24,0.0,0.0,fort worth,texas
+133040,2024,20908,GMC,Sierra 1500 Pro,Certified,37850.0,white,black,RWD,8.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.7,I4,16,0.0,0.0,asheville,north carolina
+83511,2021,43950,Tesla,Model Y Long Range Dual Motor All-Wheel Drive,Used,21450.0,black,black,AWD,0.0,Electric,False,True,True,False,10.0,30.0,75.0,463.4,1,0.0,NA,0,56.0,50.0,dumfries,virginia
+21555,2024,11374,Toyota,Tundra SR5,Used,46295.0,black,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.4,V6,24,0.0,0.0,san diego,california
+45384,2022,29691,Chevrolet,Silverado 1500 LT,Used,35395.0,gray,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.7,I4,16,0.0,0.0,anderson,indiana
+197213,2005,254135,Chrysler,Town & Country Touring,Used,2950.0,blue,gray,FWD,8.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,4,3.8,V6,12,0.0,0.0,shelbyville,indiana
+73751,2023,27149,Volvo,XC90 Recharge Plug-In Hybrid Ultimate,Certified,57600.0,white,black,AWD,13.7,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,ontario,california
+215305,2007,247620,Ford,Edge SEL Plus,Used,4995.0,gray,gray,AWD,9.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,louisville,kentucky
+63787,2023,40161,GMC,Sierra 1500 Elevation,Used,44820.0,white,black,4WD,8.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,10,5.3,V8,16,0.0,0.0,homosassa,florida
+34586,2022,62036,Ford,Edge SE,Used,17979.0,white,yellow,AWD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,scottsdale,arizona
+173261,2021,67651,Ford,Explorer Platinum,Used,30800.0,black,black,4WD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,10,3.0,V6,24,0.0,0.0,davenport,florida
+260758,2022,61694,Ford,F-150 Lariat,Used,46370.0,gray,black,4WD,9.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,pearl,mississippi
+217455,2024,31404,Toyota,Corolla LE,Certified,22485.0,blue,black,FWD,16.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,2.0,I4,16,0.0,0.0,minneapolis,minnesota
+225754,2019,24042,Toyota,RAV4 Hybrid Limited,Used,30995.0,white,black,AWD,17.0,Hybrid,True,True,True,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,national city,california
+240985,2010,193577,Toyota,Corolla S,Used,5800.0,black,black,FWD,13.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,4,1.8,I4,16,0.0,0.0,san antonio,texas
+259473,2018,87745,Jeep,Wrangler Unlimited Sport S,Used,21999.0,red,black,4WD,8.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,hollis,new york
+3393,2019,66897,Tesla,Model S 100D,Used,20998.0,white,black,AWD,0.0,Electric,False,True,True,True,12.0,29.5,66.9,499.6,1,0.0,NA,0,49.0,45.0,worcester,massachusetts
+29322,2020,107899,Chevrolet,Silverado 1500 Custom Trail Boss,Used,28466.0,black,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,5.3,V8,16,0.0,0.0,antioch,tennessee
+256801,2023,34173,Mercedes-Benz,Sprinter 2500 High Roof,Used,33900.0,white,black,RWD,11.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,9,2.0,I4,16,0.0,0.0,hooksett,new hampshire
+158261,2023,19355,Ford,Explorer XLT,Used,34500.0,black,black,4WD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,2.3,I4,16,0.0,0.0,fort wayne,indiana
+184930,2022,40195,Jeep,Gladiator Overland,Used,24488.0,gray,black,4WD,8.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,hempstead,new york
+241202,2015,140145,Chevrolet,Malibu 1LS,Used,6885.0,black,black,FWD,13.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,kernersville,north carolina
+94801,2024,20298,GMC,Sierra 1500 Denali Ultimate,Used,68478.0,gray,white,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,6.2,V8,16,0.0,0.0,henderson,colorado
+87488,2021,33704,Jeep,Wrangler Unlimited Sahara,Used,36977.0,black,black,4WD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,mount airy,north carolina
+244498,2024,8569,Jeep,Wrangler Willys,Used,39700.0,white,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,jacksonville,florida
+153734,2022,54379,Mercedes-Benz,Sprinter 2500 High Roof,Used,28888.0,white,gray,RWD,11.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,9,2.0,I4,24,0.0,0.0,dallas,texas
+219810,2017,41007,Jeep,Wrangler Sport,Used,23500.0,silver,black,4WD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,5,3.6,V6,24,0.0,0.0,manchester,iowa
+100286,2019,99589,Dodge,Grand Caravan GT,Used,14607.0,gray,black,FWD,9.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,3.6,V6,24,0.0,0.0,charles city,iowa
+91841,2015,206238,Toyota,Camry Hybrid LE,Used,9031.0,white,beige,FWD,17.0,Hybrid,True,True,False,False,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,charleston,south carolina
+44807,2016,81163,Honda,Civic EX,Used,15988.0,white,gray,FWD,15.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,fremont,california
+103604,2024,34426,Ford,Explorer XLT,Used,32548.0,gray,black,4WD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,2.3,I4,16,0.0,0.0,nottingham,maryland
+192704,2021,20680,Nissan,Rogue SV,Used,20988.0,gray,gray,FWD,13.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,vero beach,florida
+89933,2017,84760,Toyota,Highlander XLE,Used,20460.0,red,beige,FWD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,roswell,georgia
+230507,2022,29251,GMC,Sierra 1500 Elevation,Used,43500.0,black,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.7,I4,16,0.0,0.0,terre haute,indiana
+53184,2016,167766,Nissan,Altima 2.5 S,Used,5300.0,silver,black,FWD,14.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,edgewood,maryland
+242614,2023,13,Dodge,Challenger SRT Hellcat,Used,199950.0,white,black,RWD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,6.2,I6,16,0.0,0.0,christiansburg,virginia
+266526,2023,27337,Acura,MDX,Certified,39500.0,gray,black,AWD,9.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,ocala,florida
+178680,2023,10227,Dodge,Charger R/T Scat Pack,Used,52499.0,black,black,RWD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,6.4,I6,16,0.0,0.0,marietta,georgia
+74859,2022,24708,Jeep,Wrangler Unlimited Sport,Used,29335.0,black,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,bellevue,washington
+47935,2019,52111,BMW,X5 xDrive40i Sports Activity Vehicle,Used,31995.0,white,black,AWD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,3.0,I6,16,0.0,0.0,jackson,tennessee
+90169,2008,61863,Chevrolet,Corvette Base,Used,29990.0,red,gray,RWD,9.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,6.2,V8,16,0.0,0.0,new albany,indiana
+26947,2018,57416,Audi,Q5 Premium Plus,Used,22998.0,white,brown,4WD,11.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,white marsh,maryland
+117621,2014,150358,Kia,Soul +,Used,6950.0,blue,black,FWD,11.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,clarksville,tennessee
+253144,2023,33690,Nissan,Rogue SV,Used,22999.0,red,gray,AWD,13.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,2,1.5,I3,12,0.0,0.0,elmira,new york
+119996,2015,115000,Kia,Sedona LX,Used,7800.0,brown,gray,FWD,9.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,3.3,V6,24,0.0,0.0,Unknown_City,Unknown_State
+197855,2007,225262,Honda,Odyssey LX,Used,4500.0,blue,gray,FWD,9.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,5,3.5,V6,24,0.0,0.0,independence,missouri
+126593,2005,99130,Honda,CR-V EX,Used,9499.0,gray,black,4WD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,5,2.4,I4,16,0.0,0.0,elk river,minnesota
+180384,2019,99890,Mazda,CX-5 Grand Touring Reserve,Used,16990.0,gray,beige,AWD,5.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,tampa,florida
+17990,2023,31849,Chevrolet,Malibu FWD RS,Used,15495.0,red,black,FWD,13.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,8,1.5,I4,16,0.0,0.0,dumfries,virginia
+50217,2023,77800,Chrysler,Pacifica Limited,Used,24999.0,white,black,FWD,10.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,columbia city,indiana
+254924,2024,14587,Toyota,RAV4 Hybrid SE,Used,30467.0,gray,black,AWD,17.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,2,2.5,I4,16,0.0,0.0,durham,north carolina
+150616,2019,90500,Jeep,Wrangler Unlimited Rubicon,Used,29995.0,black,black,4WD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,brea,california
+137916,2015,115679,Dodge,Challenger R/T Scat Pack,Used,21999.0,black,black,RWD,8.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,6.4,V8,16,0.0,0.0,lima,ohio
+47897,2022,35503,Toyota,Highlander XLE,Used,36463.0,black,beige,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,malvern,pennsylvania
+138438,2024,33976,GMC,Sierra 1500 SLT,Used,47342.0,black,black,4WD,7.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,5.3,V8,16,0.0,0.0,mechanicsville,virginia
+107401,2022,61174,Chevrolet,Silverado 2500 LT,Used,35795.0,black,gray,RWD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,6.6,V8,16,0.0,0.0,wesley chapel,florida
+249149,2022,27679,Porsche,Cayenne S,Certified,79400.0,gray,white,AWD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.9,V6,24,0.0,0.0,fort myers,florida
+196000,2024,49439,Ford,F-250 XLT,Certified,59995.0,white,gray,4WD,6.0,Diesel,False,True,True,False,0.0,0.0,0.0,0.0,10,6.7,V8,32,0.0,0.0,vandalia,ohio
+225551,2020,65661,Chevrolet,Camaro 2SS,Used,31000.0,white,black,RWD,9.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,10,6.2,V8,16,0.0,0.0,englewood,new jersey
+18878,2019,47299,Audi,Q5 2.0T Prestige,Used,25851.0,white,black,AWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,7,2.0,I4,16,0.0,0.0,knoxville,tennessee
+35012,2025,3267,Nissan,Rogue SV,Certified,29934.0,black,gray,AWD,13.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,2,1.5,I3,12,0.0,0.0,glendale heights,illinois
+229925,2024,7625,Mercedes-Benz,C-Class C 300 4MATIC,Certified,49995.0,gray,brown,AWD,12.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,9,2.0,I4,16,0.0,0.0,union,new jersey
+130141,2024,1981,Chevrolet,Corvette Stingray w/2LT,Certified,74999.0,white,black,RWD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,6.2,V8,16,0.0,0.0,lake wales,florida
+127986,2024,5455,Mazda,Mazda3 2.5 S Select Sport,Used,23492.0,gray,black,FWD,14.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,vacaville,california
+209138,2008,140116,Toyota,Corolla CE,Used,7191.0,white,yellow,FWD,13.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,4,1.8,I4,16,0.0,0.0,rockville,maryland
+163565,2023,37686,Ford,F-250 XLT,Used,48999.0,gray,gray,4WD,6.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,7.3,V8,16,0.0,0.0,cottonwood,arizona
+212894,2024,13297,Toyota,Tacoma TRD Off-Road,Used,38800.0,black,black,4WD,9.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.4,I4,16,0.0,0.0,ephrata,pennsylvania
+232650,2022,60534,Honda,Accord Hybrid Touring,Used,27350.0,gray,black,FWD,18.0,Hybrid,False,True,False,True,0.0,0.0,0.0,0.0,1,2.0,I4,16,0.0,0.0,minneapolis,minnesota
+122023,2010,89850,Honda,CR-V EX,Used,11895.0,white,black,FWD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,5,2.4,I4,16,0.0,0.0,olathe,kansas
+35700,2019,63150,Ford,Edge ST,Used,22990.0,gray,black,AWD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,2.7,V6,24,0.0,0.0,hopkinsville,kentucky
+98172,2023,50302,Toyota,Sienna Limited 7-Passenger,Used,48800.0,gray,gray,AWD,15.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,cedar falls,iowa
+131899,2023,15225,Dodge,Charger R/T,Used,49000.0,white,black,RWD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,5.7,I5,16,0.0,0.0,midland,texas
+177080,2025,4713,Honda,Odyssey Elite,Used,52730.0,white,black,FWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,cortland,ohio
+3546,2024,24998,Ford,Edge SEL,Used,27927.0,gray,yellow,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,toledo,ohio
+126793,2024,24908,Chevrolet,Malibu FWD 1LT,Used,21500.0,white,gray,FWD,13.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,2,1.5,I4,16,0.0,0.0,benton harbor,michigan
+22043,2020,51907,Mercedes-Benz,C-Class C 300,Used,26998.0,black,red,4WD,12.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,9,2.0,I4,16,0.0,0.0,fayetteville,north carolina
+64889,2023,21134,Ford,Escape Active,Used,24000.0,white,black,AWD,12.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,1.5,I3,12,0.0,0.0,independence,missouri
+87958,2021,120657,Nissan,Rogue SL,Used,19998.0,white,gray,AWD,12.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,burnsville,minnesota
+24106,2023,38469,Toyota,Corolla LE,Used,19990.0,white,black,FWD,16.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,2.0,I4,16,0.0,0.0,vallejo,california
+28452,2020,90347,Toyota,RAV4 Hybrid XLE,Used,24335.0,white,gray,AWD,17.0,Hybrid,True,True,True,False,0.0,0.0,0.0,0.0,2,2.5,I4,16,0.0,0.0,mission,kansas
+235585,2010,126155,Toyota,Highlander Limited,Used,9999.0,white,beige,AWD,8.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,5,3.5,V6,24,0.0,0.0,south hackensack,new jersey
+83794,2023,26848,Chevrolet,Tahoe Z71,Used,65977.0,black,black,4WD,7.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,10,5.3,V8,16,0.0,0.0,denton,texas
+92692,2017,139256,GMC,Sierra 2500 SLT,Used,27995.0,red,yellow,RWD,7.7,Diesel,False,True,False,True,0.0,0.0,0.0,0.0,6,6.6,V8,16,0.0,0.0,boise,idaho
+55514,2023,4516,Dodge,Challenger R/T Scat Pack,Used,46000.0,white,black,RWD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,6.4,V8,16,0.0,0.0,surprise,arizona
+84251,2018,115705,Chevrolet,Silverado 2500 LTZ,Used,41620.0,black,black,4WD,7.0,Diesel,False,True,False,True,0.0,0.0,0.0,0.0,6,6.6,V8,16,0.0,0.0,roscoe,illinois
+198298,2022,74305,Toyota,Highlander XLE,Certified,33887.0,gray,gray,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,blackwood,new jersey
+137932,2023,70859,Chevrolet,Malibu FWD 1LT,Used,17559.0,black,black,FWD,13.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,2,1.5,I4,16,0.0,0.0,fenton,michigan
+139150,2024,22143,Mazda,CX-5 Carbon Edition,Used,30150.0,gray,black,AWD,11.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,south bend,indiana
+64356,2022,46267,Ford,Transit Connect XL Cargo Van,Used,23300.0,white,black,FWD,11.0,Gasoline,True,False,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,gilbert,arizona
+198056,2018,140445,Ford,Edge SEL,Certified,11987.0,gray,black,AWD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,lancaster,ohio
+216526,2012,105276,Jeep,Wrangler Unlimited Rubicon,Used,18000.0,gray,black,4WD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,5,3.6,V6,24,0.0,0.0,boise,idaho
+118600,2022,24581,GMC,Sierra 1500 Elevation,Used,38995.0,black,black,4WD,8.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,10,2.7,I4,16,0.0,0.0,saint charles,illinois
+66982,2023,30351,Acura,MDX Advance Package,Certified,45621.0,white,beige,AWD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,fort pierce,florida
+1640,2016,119555,Chevrolet,Tahoe LT,Used,22054.0,white,yellow,4WD,8.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,5.3,V8,16,0.0,0.0,northumberland,pennsylvania
+205173,2015,213602,Toyota,Prius Four,Used,8450.0,gray,gray,FWD,21.0,Hybrid,True,True,False,True,0.0,0.0,0.0,0.0,6,1.8,I4,16,0.0,0.0,sandy,utah
+75557,2021,27826,Honda,Civic EX,Used,24449.0,white,black,FWD,15.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,2,1.5,I4,16,0.0,0.0,lumberton,north carolina
+58427,2022,23027,Toyota,RAV4 XLE,Used,27488.0,white,black,AWD,13.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,englewood,colorado
+126310,2021,27628,Jeep,Wrangler Willys,Used,30977.0,red,black,4WD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,24,0.0,0.0,naperville,illinois
+239405,2023,55500,Dodge,Charger SXT,Certified,21500.0,white,black,RWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,richmond,indiana
+172899,2022,34233,Ford,Edge SEL,Used,27238.0,gray,black,AWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,sellersburg,indiana
+129540,2018,94228,Mazda,CX-5 Grand Touring,Used,16767.0,blue,black,AWD,11.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,wilkes barre,pennsylvania
+228519,2019,83791,Ford,Escape SE,Used,12480.0,white,gray,4WD,11.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,1.5,I4,16,0.0,0.0,billings,montana
+226938,2021,73082,Ford,F-150 XL,Used,23950.0,white,gray,RWD,9.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,10,3.3,V6,24,0.0,0.0,madison,alabama
+193868,2020,113080,Chevrolet,Tahoe LT,Used,27798.0,white,yellow,4WD,8.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,6,5.3,V8,16,0.0,0.0,wichita,kansas
+93785,2018,113875,Chevrolet,Camaro 1LT,Used,17895.0,black,gray,RWD,10.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,lexington,south carolina
+35182,2014,111650,Dodge,Grand Caravan AVP/SE,Used,8999.0,white,black,FWD,9.0,Flex Fuel,True,True,True,False,0.0,0.0,0.0,0.0,6,3.6,V6,24,0.0,0.0,waconia,minnesota
+206090,2018,80250,Jeep,Wrangler Unlimited Rubicon,Used,23995.0,gray,black,4WD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,puyallup,washington
+123145,2023,47652,Nissan,Rogue SV,Used,18895.0,red,gray,FWD,14.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,2,1.5,I3,12,0.0,0.0,homestead,florida
+240068,2024,8965,Ford,Escape ST-Line,Certified,26830.0,white,black,AWD,12.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,1.5,I3,12,0.0,0.0,ypsilanti,michigan
+63914,2020,101686,Jeep,Grand Cherokee Limited,Used,18991.0,white,black,4WD,9.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,auburn,washington
+184013,2023,55459,Nissan,Altima 2.5 SV,Used,19700.0,black,gray,FWD,14.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,1,2.5,I4,16,0.0,0.0,granite city,illinois
+18018,2019,91636,Chevrolet,Express 2500 Work Van,Used,18083.0,white,gray,RWD,7.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,4.3,V6,12,0.0,0.0,sidney,ohio
+208476,2020,65799,Toyota,Sienna SE,Used,24950.0,white,gray,FWD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,provo,utah
+10217,2025,3375,Mercedes-Benz,C-Class C 300,Certified,46849.0,black,black,AWD,12.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,9,2.0,I4,16,0.0,0.0,scarborough,maine
+21167,2015,98351,Nissan,Rogue SL,Used,11664.0,red,gray,AWD,12.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,2,2.5,I4,16,0.0,0.0,georgetown,texas
+188803,2016,99251,Chevrolet,Express 2500 Work Van,Used,12977.0,white,black,RWD,2.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,4.8,V8,16,0.0,0.0,joliet,illinois
+59744,2015,91720,Mazda,Mazda3 I Sport,Used,12599.0,brown,gray,RWD,15.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,8,2.06,I4,16,0.0,0.0,west palm beach,florida
+233574,2023,1110,Chevrolet,Camaro SS,Used,51995.0,black,black,RWD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,6.2,V8,16,0.0,0.0,fort wayne,indiana
+194682,2024,34953,Ford,Edge Titanium,Used,25998.0,black,black,AWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,libertyville,illinois
+215666,2023,33825,Nissan,Rogue SV,Used,20930.0,gray,gray,FWD,14.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,2,1.5,I3,12,0.0,0.0,gresham,oregon
+22018,2019,49358,Ford,F-150 XLT,Used,27991.0,black,gray,RWD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,10,2.7,V6,24,0.0,0.0,jacksonville,florida
+82111,2024,3289,Ford,Mustang GT Premium,Used,49904.0,white,red,RWD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,5.0,V8,32,0.0,0.0,rochester,new york
+182536,2021,38190,Jeep,Wrangler Unlimited Sport,Certified,34885.0,white,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,beatrice,nebraska
+202196,2017,85414,Mercedes-Benz,E-Class E 300 Sedan 4D,Used,16995.0,gray,beige,RWD,11.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,houston,texas
+203216,2020,41494,Ford,F-150 Lariat,Used,35500.0,black,black,4WD,9.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,10,2.7,V6,24,0.0,0.0,gurnee,illinois
+64431,2022,38530,Toyota,Corolla SE,Used,22295.0,white,gray,FWD,15.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,fox lake,illinois
+172480,2024,1934,Honda,Civic EX,Used,27632.0,white,black,FWD,16.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,2,1.5,I4,16,0.0,0.0,hartford,connecticut
+75039,2022,44639,Jeep,Grand Cherokee Limited,Used,29998.0,gray,black,4WD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,milwaukee,wisconsin
+235024,2016,154297,Ford,F-150 Lariat,Used,19995.0,white,beige,4WD,8.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,houston,texas
+5399,2023,71156,Chevrolet,Malibu FWD 1LT,Used,19998.0,white,black,FWD,13.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,2,1.5,I4,16,0.0,0.0,louisville,kentucky
+80383,2025,1711,Chevrolet,Silverado 3500 LTZ,Used,69500.0,red,black,4WD,6.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,6.6,V8,32,0.0,0.0,jackson,minnesota
+183361,2025,5530,Audi,Q5 45 S line Premium,Used,45975.0,white,black,AWD,11.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,7,2.0,I4,16,0.0,0.0,west palm beach,florida
+152939,2019,85757,Ford,Edge ST,Used,19875.0,gray,black,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.7,V6,24,0.0,0.0,chillicothe,ohio
+207795,2018,117071,Ford,Edge Titanium,Used,13495.0,gray,black,AWD,8.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,6,3.5,V6,16,0.0,0.0,lexington,south carolina
+176782,2023,48758,Dodge,Charger SXT,Used,19744.0,silver,black,RWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,tucson,arizona
+230588,2021,39963,Toyota,RAV4 Hybrid SE,Certified,29797.0,black,black,AWD,17.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,2,2.5,I4,16,0.0,0.0,fort lauderdale,florida
+24583,2021,92811,Honda,Accord LX 1.5T,Used,18995.0,gray,black,FWD,14.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,10,1.5,I4,16,0.0,0.0,san antonio,texas
+176665,2016,146006,Honda,Pilot Touring,Used,13295.0,gray,gray,AWD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,9,3.5,V6,24,0.0,0.0,brooklyn,new york
+94927,2024,24816,GMC,Sierra 1500 AT4,Used,56999.0,black,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,6.2,V8,16,0.0,0.0,valparaiso,indiana
+242150,2019,107891,GMC,Sierra 1500 AT4,Used,34889.0,black,black,4WD,7.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,5.3,V8,16,0.0,0.0,watertown,connecticut
+176366,2019,114121,Toyota,Camry SE,Used,20900.0,white,black,FWD,15.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,denver,colorado
+79434,2025,24486,Toyota,Camry LE,Used,26500.0,black,black,FWD,22.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,midlothian,virginia
+222265,2018,125888,Toyota,Tundra SR5,Used,28994.0,black,black,4WD,6.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,5.7,V8,32,0.0,0.0,medina,ohio
+163117,2012,34423,Nissan,Altima 2.5,Used,12999.0,black,white,FWD,12.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,webster,texas
+33518,2020,75201,Jeep,Grand Cherokee High Altitude,Used,25495.0,white,black,4WD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,5.7,I5,24,0.0,0.0,goshen,new york
+67623,2020,105460,Honda,Accord LX 1.5T,Used,16898.0,white,black,FWD,14.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,7,1.5,I4,16,0.0,0.0,hialeah,florida
+82022,2023,8627,Chrysler,Pacifica Limited,Used,41999.0,white,black,AWD,9.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,waconia,minnesota
+178247,2020,47778,Toyota,Highlander L,Used,26692.0,gray,black,AWD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,tallmadge,ohio
+196111,2022,35312,GMC,Sierra 3500 Denali,Used,67098.0,white,gray,4WD,5.0,Diesel,True,True,True,True,0.0,0.0,0.0,0.0,10,6.6,V8,32,0.0,0.0,berwick,pennsylvania
+103429,2022,61006,Nissan,Rogue Platinum,Used,22920.0,black,gray,FWD,14.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,2,1.5,I3,12,0.0,0.0,newnan,georgia
+156769,2024,57412,Subaru,Forester Sport,Used,28500.0,black,gray,AWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,7,2.5,H4,16,0.0,0.0,bonita springs,florida
+80929,2023,16530,Ford,Edge SEL,Certified,27446.0,black,black,AWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,ankeny,iowa
+62177,2018,124511,Ford,Edge SEL,Certified,12500.0,gray,black,AWD,10.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,inver grove heights,minnesota
+117129,2015,218602,GMC,Sierra 1500 SLT,Used,14297.0,white,black,4WD,8.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,5.3,V8,16,0.0,0.0,pekin,illinois
+8410,2025,596,Mazda,CX-5 2.5 Turbo Premium,Used,33550.0,white,black,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,fort myers,florida
+240929,2021,35893,Toyota,Sienna XLE 7 Passenger,Used,41699.0,black,gray,AWD,15.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,baxter,minnesota
+266438,2019,63706,Dodge,Grand Caravan SXT,Used,12495.0,gray,black,FWD,11.0,Flex Fuel,True,False,False,False,0.0,0.0,0.0,0.0,6,3.6,V6,24,0.0,0.0,new haven,michigan
+20674,2017,87792,Toyota,Corolla SE,Used,14000.0,black,black,FWD,13.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,1.8,I4,16,0.0,0.0,Unknown_City,Unknown_State
+221570,2017,167168,Ford,F-350 King Ranch,Used,44995.0,black,brown,4WD,5.9,Diesel,True,True,False,True,0.0,0.0,0.0,0.0,8,6.7,V8,16,0.0,0.0,cullman,alabama
+210738,2023,60176,Toyota,Corolla LE,Used,21636.0,black,black,FWD,16.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,10,2.0,I4,16,0.0,0.0,elkhorn,nebraska
+249832,2022,47812,Honda,Civic Sport,Used,22894.0,white,black,FWD,14.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,commerce,texas
+188796,2024,33940,Jeep,Wrangler Sport S,Certified,36584.0,silver,black,4WD,9.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.0,I4,24,0.0,0.0,la grange,illinois
+4692,2023,37616,Honda,Accord Hybrid EX-L,Used,26998.0,white,black,FWD,20.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,1,2.0,I4,16,0.0,0.0,signal hill,california
+197846,2022,32087,Toyota,4Runner TRD Off Road Premium,Used,48500.0,gray,black,4WD,7.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,5,4.0,V6,24,0.0,0.0,honolulu,hawaii
+271148,2022,27549,Ford,Edge SE,Certified,24550.0,black,black,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,minneapolis,minnesota
+61271,2002,40894,Mercedes-Benz,SL-Class Silver Arrow,Used,38646.0,gray,black,RWD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,5.0,V8,16,0.0,0.0,plano,texas
+256962,2008,75036,Honda,Fit Sport,Used,12999.0,silver,black,FWD,13.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,5,1.5,I4,16,0.0,0.0,saint george,utah
+37296,2021,133847,Toyota,4Runner TRD Pro,Used,41665.0,gray,black,4WD,7.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,5,4.0,V6,24,0.0,0.0,naperville,illinois
+217537,2023,16263,GMC,Savana 2500 Work Van,Used,31777.0,white,black,RWD,8.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,4.3,V6,12,0.0,0.0,bethlehem,pennsylvania
+158147,2024,8483,Acura,MDX A-SPEC,Certified,47000.0,white,black,AWD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,woodside,new york
+130836,2023,27067,GMC,Sierra 1500 SLT,Used,46257.0,gray,black,RWD,11.0,Diesel,True,True,True,True,0.0,0.0,0.0,0.0,10,3.0,I6,16,0.0,0.0,orange,california
+65156,2021,34650,Dodge,Charger GT,Used,26988.0,gray,black,RWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,independence,missouri
+6319,2016,143582,Toyota,Camry SE,Used,10997.0,gray,black,FWD,13.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,falls church,virginia
+96862,2019,46956,Ford,Mustang GT,Used,29490.0,blue,black,RWD,8.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,10,5.0,V8,32,0.0,0.0,riverdale,new jersey
+97422,2014,139601,Ford,Mustang V6,Used,9895.0,black,black,RWD,10.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,3.7,V6,24,0.0,0.0,chantilly,virginia
+166409,2018,101610,Honda,Accord EX-L 2.0T,Used,20088.0,white,black,FWD,12.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,10,2.0,I4,16,0.0,0.0,hazelwood,missouri
+12227,2020,44208,Jeep,Grand Cherokee Summit,Certified,30480.0,white,black,4WD,9.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,reno,nevada
+216642,2018,107284,Jeep,Wrangler Unlimited Sport,Used,19990.0,gray,black,4WD,8.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,golden,colorado
+18747,2022,39250,Ford,Transit Connect XL,Used,15795.0,white,black,FWD,11.0,Gasoline,True,False,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,bedford,virginia
+186916,2025,5000,Acura,MDX A-Spec,Certified,61248.0,white,black,AWD,9.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,fresno,california
+143872,2024,31151,Chevrolet,Silverado 1500 RST,Used,46857.0,white,black,4WD,8.0,Diesel,False,True,True,True,0.0,0.0,0.0,0.0,10,3.0,I6,24,0.0,0.0,woodstock,georgia
+188869,2009,125982,Dodge,Challenger SRT8,Used,15000.0,white,gray,RWD,7.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,5,6.1,V8,16,0.0,0.0,oklahoma city,oklahoma
+28874,2017,81849,Dodge,Charger R/T,Used,21491.0,gray,black,RWD,9.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,5.7,V8,16,0.0,0.0,clermont,florida
+28435,2018,34503,Mercedes-Benz,C-Class C 300,Used,20000.0,blue,black,RWD,12.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,9,2.0,I4,16,0.0,0.0,tampa,florida
+161409,2020,15271,Ford,Escape SEL,Used,22499.0,white,yellow,FWD,13.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,1.5,I3,12,0.0,0.0,avon,indiana
+81012,2024,23994,Ford,Mustang GT Premium,Used,44799.0,gray,black,RWD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,5.0,V8,32,0.0,0.0,panama city,florida
+147344,2016,120473,Jeep,Wrangler Unlimited Sport,Used,15900.0,gray,black,4WD,8.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,5,3.6,V6,24,0.0,0.0,bristol,tennessee
+128989,2015,39817,Chevrolet,Corvette Stingray,Used,41995.0,black,black,RWD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,6.2,V8,16,0.0,0.0,jacksonville,florida
+111863,2021,69884,Mazda,CX-5 Signature,Used,22977.0,white,brown,AWD,10.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,bethlehem,pennsylvania
+259456,2023,12542,Chevrolet,Traverse LS,Used,30990.0,white,black,FWD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,indianapolis,indiana
+184807,2018,95767,Jeep,Wrangler Unlimited Sport,Used,18995.0,gray,black,4WD,9.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,saline,michigan
+200784,2020,47615,Toyota,4Runner SR5,Used,38557.0,gray,black,4WD,7.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,5,4.0,V6,24,0.0,0.0,conshohocken,pennsylvania
+118293,2007,74690,Toyota,Camry Hybrid Base,Used,11888.0,white,gray,FWD,17.0,Hybrid,True,True,True,True,0.0,0.0,0.0,0.0,8,2.4,I4,16,0.0,0.0,hopkins,minnesota
+204726,2023,21390,Honda,CR-V Hybrid Sport,Used,30265.0,gray,black,FWD,17.0,Hybrid,True,True,True,True,0.0,0.0,0.0,0.0,1,2.0,I4,16,0.0,0.0,greensboro,north carolina
+3804,2006,174372,Ford,Explorer XLT,Used,5995.0,black,beige,4WD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,5,4.0,V6,12,0.0,0.0,las vegas,nevada
+119754,2014,123091,Jeep,Grand Cherokee Limited,Used,12393.0,white,black,4WD,9.0,Flex Fuel,True,True,False,False,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,westerville,ohio
+156588,2025,1801,BMW,X3 30 xDrive,Used,49951.0,white,black,AWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,santa clara,california
+59101,2011,164016,Volvo,XC70 3.2,Used,6300.0,gray,black,AWD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,3.2,I6,24,0.0,0.0,north haven,connecticut
+39021,2023,63052,Nissan,Altima 2.5 SV,Used,19895.0,gray,black,FWD,14.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,1,2.5,I4,16,0.0,0.0,saint louis,missouri
+156289,2018,53154,Ford,Escape SEL,Used,16000.0,gray,black,4WD,11.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,1.5,I4,16,0.0,0.0,webster,new york
+128622,2021,108563,Chevrolet,Silverado 1500 Custom,Used,24987.0,white,black,4WD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.7,I4,16,0.0,0.0,lincoln,illinois
+179610,2012,94681,Chevrolet,Camaro 2LT,Used,12888.0,red,black,RWD,10.0,Flex Fuel,False,True,False,True,0.0,0.0,0.0,0.0,6,3.6,V6,24,0.0,0.0,punta gorda,florida
+32338,2023,71620,Honda,Odyssey Elite,Certified,39392.0,white,black,FWD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,greenwood,indiana
+170494,2022,39834,Ford,Transit-350 XLT,Used,28798.0,white,gray,RWD,8.0,Gasoline,True,False,True,False,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,duluth,georgia
+249762,2022,66224,BMW,X3 M40i,Used,35399.0,white,black,AWD,10.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,8,3.0,I6,24,0.0,0.0,miami,florida
+175467,2020,136787,Ford,F-250 XL,Used,28875.0,white,gray,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,7.3,V8,16,0.0,0.0,nashville,tennessee
+62368,2023,27436,Honda,Odyssey Elite,Used,45339.0,white,black,FWD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,billings,montana
+226405,2013,154493,Jeep,Wrangler Unlimited Sahara,Used,9986.0,red,black,4WD,8.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,5,3.6,V6,24,0.0,0.0,port huron,michigan
+119983,2022,76643,Toyota,Highlander Hybrid XLE,Used,32595.0,black,gray,AWD,15.0,Hybrid,False,True,True,False,0.0,0.0,0.0,0.0,2,2.5,I4,16,0.0,0.0,tallahassee,florida
+71151,2020,45525,Audi,Q5 45 Premium,Used,23764.0,black,black,AWD,5.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,7,2.0,I4,16,0.0,0.0,eden prairie,minnesota
+233896,2019,83519,Jeep,Grand Cherokee Summit,Used,24500.0,gray,gray,4WD,8.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,8,5.7,I5,16,0.0,0.0,washington,pennsylvania
+181722,2023,25015,Ford,F-250 XL,Used,49848.0,white,gray,4WD,6.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,6.8,V8,16,0.0,0.0,emporia,kansas
+46539,2021,27000,Jeep,Wrangler Unlimited Sport,Used,32595.0,white,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,temple,texas
+96261,2018,87748,Ford,Transit-250 Base,Used,19986.0,white,gray,RWD,8.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,6,3.7,V6,24,0.0,0.0,smithfield,north carolina
+97834,2024,15247,Honda,Odyssey Elite,Used,44000.0,gray,black,FWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,kansas city,missouri
+657,2025,1761,Ford,F-150 XLT,Used,56085.0,gray,black,4WD,10.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,staten island,new york
+206970,2011,117136,Porsche,Cayenne Sport Utility 4D,Used,8999.0,black,beige,AWD,8.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,las vegas,nevada
+195621,2000,304496,Toyota,Sienna LE,Used,2500.0,yellow,beige,FWD,9.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,3.0,V6,16,0.0,0.0,troy,michigan
+67722,2021,78688,Dodge,Challenger R/T,Used,28995.0,black,black,RWD,9.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,5.7,I5,16,0.0,0.0,amarillo,texas
+59637,2023,45534,Dodge,Challenger SXT,Used,24658.0,gray,black,RWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,jackson,tennessee
+247482,2024,51025,Chevrolet,Silverado 2500 LT,Used,52995.0,gray,black,4WD,6.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,6.6,V8,16,0.0,0.0,brookings,south dakota
+42550,2023,17236,Tesla,Model 3 Standard Range,Used,25990.0,black,black,RWD,0.0,Electric,False,True,True,True,10.0,30.0,55.0,412.7,1,0.0,NA,0,59.0,54.0,costa mesa,california
+90664,2022,67145,Ford,Bronco Big Bend,Certified,30843.0,blue,gray,4WD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,2.3,I4,16,0.0,0.0,new prague,minnesota
+68092,2010,112867,Subaru,Forester 2.5 X Limited,Used,12999.0,gray,black,AWD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,4,2.5,H4,16,0.0,0.0,saint george,utah
+183837,2016,131686,Toyota,Tundra Platinum,Used,28499.0,black,black,4WD,6.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,5.7,V8,16,0.0,0.0,mckinney,texas
+62553,2022,38626,Chevrolet,Silverado 3500 High Country,Used,68000.0,white,black,4WD,5.0,Diesel,False,True,True,False,0.0,0.0,0.0,0.0,10,6.6,V8,32,0.0,0.0,long beach,california
+39006,2017,89071,Toyota,Sienna SE,Used,23900.0,gray,black,FWD,10.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,jersey city,new jersey
+23178,2022,27202,Mazda,CX-5 2.5 S Carbon Edition,Used,24787.0,gray,red,AWD,11.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,gilbert,arizona
+261040,2018,75697,Chevrolet,Silverado 1500 2LT,Used,28999.0,black,black,4WD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,5.3,V8,16,0.0,0.0,chilton,wisconsin
+46774,2021,37425,Volkswagen,ID.4 Pro S,Certified,20780.0,blue,gray,RWD,0.0,Electric,False,True,True,True,7.0,30.0,77.0,387.0,1,0.0,NA,0,42.0,37.0,west chester,pennsylvania
+8019,2021,51685,Toyota,Tacoma TRD Sport,Used,36850.0,white,black,4WD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,great falls,montana
+215669,2024,7619,BMW,X3 sDrive30i,Used,43198.0,white,red,RWD,11.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,miami,florida
+163033,2015,64219,Subaru,Forester 2.5i Premium,Used,14559.0,white,gray,AWD,12.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,2.5,H4,16,0.0,0.0,milwaukee,wisconsin
+7658,2020,73953,Dodge,Charger Scat Pack,Used,34900.0,gray,black,RWD,8.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,6.4,I6,16,0.0,0.0,topeka,kansas
+158804,2017,101919,Nissan,Rogue SV,Used,14998.0,black,black,4WD,12.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,7,2.5,I4,16,0.0,0.0,greensboro,north carolina
+222167,2024,13137,Ford,Transit-350 XLT,Used,62987.0,white,gray,AWD,9.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,chillicothe,missouri
+103633,2022,64970,Ford,Explorer ST,Used,35995.0,gray,black,4WD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.0,V6,24,0.0,0.0,greensboro,north carolina
+251807,2022,36806,BMW,X5 M50i,Used,47211.0,white,black,AWD,8.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,4.4,V8,32,0.0,0.0,saint albans,west virginia
+179716,2022,34916,Ford,Mustang Mach-E SELECT,Certified,26252.0,white,black,4WD,0.0,Electric,False,True,True,True,7.9,44.3,102.4,407.6699999999999,8,0.0,NA,0,33.0,27.1,plattsburgh,new york
+229316,2024,11099,Porsche,Cayenne,Certified,82995.0,black,black,AWD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.0,V6,16,0.0,0.0,mechanicville,new york
+158717,2024,19924,Jeep,Wrangler Rubicon,Used,77995.0,white,black,4WD,6.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,6.4,I6,24,0.0,0.0,grove city,ohio
+19403,2024,9323,Porsche,Cayenne,Certified,87995.0,black,black,AWD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.0,V6,24,0.0,0.0,beaverton,oregon
+220933,2018,71779,Honda,Clarity Plug-In Hybrid Touring,Used,18750.0,black,black,FWD,24.9,Plug-in Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,8,1.5,I4,16,0.0,0.0,Unknown_City,Unknown_State
+171994,2022,31102,Mercedes-Benz,C-Class C 300 4MATIC,Certified,35592.0,white,brown,AWD,14.0,Plug-in Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,9,2.0,I4,16,0.0,0.0,greensburg,pennsylvania
+166567,2024,15395,Acura,MDX,Certified,47960.0,white,black,AWD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.5,I4,16,0.0,0.0,sioux falls,south dakota
+127625,2023,12935,Ford,Explorer ST,Used,44545.0,gray,black,4WD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.0,V6,24,0.0,0.0,delphos,ohio
+32943,2025,2835,Honda,Accord Sport SE 1.5T,Used,26490.0,white,black,FWD,14.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,1.5,I4,16,0.0,0.0,miami,florida
+193379,2021,81259,Toyota,Highlander XLE,Used,27975.0,white,beige,FWD,11.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,cornelius,north carolina
+20232,2017,26552,Ford,Mustang GT PREMIUM,Certified,35887.0,white,black,4WD,7.6,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,6,5.0,V8,16,0.0,0.0,forest grove,oregon
+181450,2021,48693,Ford,Bronco Big Bend,Used,35270.0,gray,black,4WD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,2.3,I4,16,0.0,0.0,eagle river,wisconsin
+98051,2024,7790,Volvo,XC90 Recharge Plug-In Hybrid T8 Plus Bright Theme 7 Passenger,Used,59470.0,white,black,AWD,13.0,Plug-in Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,honolulu,hawaii
+264618,2024,54190,Nissan,Altima 2.5 SV,Used,21464.0,gray,gray,FWD,14.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,2,2.5,I4,16,0.0,0.0,statesboro,georgia
+190922,2023,23562,Ford,Transit-250 BASE,Certified,35990.0,white,black,4WD,8.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,10,3.5,V6,16,0.0,0.0,waukesha,wisconsin
+251166,2023,84493,Chevrolet,Silverado 1500 RST,Used,39135.0,black,black,4WD,8.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,5.3,V8,16,0.0,0.0,middlebury,vermont
+261879,2024,16322,GMC,Sierra 1500 Denali,Used,57999.0,gray,black,4WD,7.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,10,6.2,V8,16,0.0,0.0,greensboro,georgia
+169053,2024,25615,Ford,Edge Titanium,Used,32944.0,black,black,AWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,columbia,tennessee
+218245,2021,53734,RAM,ProMaster 1500 Low Roof,Used,24525.0,white,black,FWD,13.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,3.6,V6,24,0.0,0.0,rome,new york
+11061,2025,2820,Kia,Soul EX,Used,22956.0,black,black,FWD,13.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,2,2.0,I4,16,0.0,0.0,mount hope,west virginia
+19424,2022,67403,Toyota,Highlander Hybrid Limited,Used,43262.0,white,black,AWD,15.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,2,2.5,I4,16,0.0,0.0,aurora,colorado
+240891,2022,25803,Ford,Escape SEL,Certified,22998.0,gray,black,AWD,11.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,1.5,I3,12,0.0,0.0,la grange,north carolina
+99768,2025,14090,Toyota,Camry SE,Used,30641.0,gray,black,FWD,20.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,2,2.5,I4,16,0.0,0.0,austin,texas
+62561,2024,31239,Toyota,4Runner Limited,Certified,48432.0,black,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,5,4.0,V6,24,0.0,0.0,chandler,arizona
+25819,2023,25435,Toyota,Tacoma SR5,Used,37491.0,silver,black,RWD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,el paso,texas
+167275,2022,55467,Toyota,Highlander LE,Certified,31247.0,blue,gray,AWD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,danvers,massachusetts
+56150,2010,78751,Subaru,Forester 2.5 X,Used,10498.0,gray,silver,AWD,10.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,5,2.5,H4,16,0.0,0.0,arlington,texas
+64061,2024,24273,Ford,Escape ST-Line,Used,22241.0,white,black,FWD,13.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,1.5,I3,12,0.0,0.0,antioch,tennessee
+224233,2021,52679,GMC,Sierra 1500 Elevation,Used,36992.0,black,black,4WD,8.0,Diesel,False,True,False,False,0.0,0.0,0.0,0.0,10,3.0,I6,24,0.0,0.0,east dubuque,illinois
+37966,2021,35091,Jeep,Wrangler Unlimited Willys Sport,Used,28998.0,gray,black,4WD,9.0,Plug-in Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,16,0.0,0.0,ocala,florida
+159275,2024,10717,Tesla,Model Y Long Range Dual Motor All-Wheel Drive,Used,32980.0,white,black,AWD,0.0,Electric,False,False,True,False,9.0,30.0,81.0,476.3,1,0.0,NA,0,52.0,48.0,baltimore,maryland
+239526,2006,75084,Porsche,Cayenne S,Used,13990.0,blue,blue,AWD,7.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,4.5,V8,32,0.0,0.0,addison,illinois
+29904,2019,36051,Toyota,RAV4 XLE Premium,Used,24987.0,white,gray,FWD,13.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,orlando,florida
+93039,2023,16625,RAM,ProMaster 2500 Base,Used,30595.0,white,black,FWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,bridgewater,new jersey
+66701,2024,15270,BMW,X5 M60i,Used,72994.0,white,black,AWD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,4.4,V8,32,0.0,0.0,mckinney,texas
+170423,2020,112874,Honda,Pilot EX-L,Certified,20500.0,white,beige,AWD,9.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,brandon,mississippi
+59087,2009,166749,Chevrolet,Malibu 2LT,Used,6991.0,gray,brown,FWD,9.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,3.6,V6,24,0.0,0.0,evansville,indiana
+50012,2019,71454,Chevrolet,Traverse LT Cloth,Used,20599.0,white,black,FWD,10.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,lake bluff,illinois
+176995,2020,79523,Toyota,Sienna LE,Used,25031.0,gray,gray,FWD,10.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,lafayette,indiana
+10956,2018,47012,Jeep,Wrangler Unlimited Sport,Used,25998.0,white,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,yonkers,new york
+38146,2024,28882,Toyota,Camry SE,Certified,26974.0,black,black,FWD,14.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,prescott,arizona
+114976,2022,18513,Subaru,Forester Limited,Used,28418.0,white,gray,AWD,13.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,7,2.5,H4,16,0.0,0.0,liverpool,new york
+93808,2022,27799,Toyota,Highlander XLE,Certified,36625.0,gray,gray,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,lockport,new york
+57331,2021,33806,Mercedes-Benz,C-Class C 300,Used,25786.0,white,black,RWD,12.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,9,2.0,I4,16,0.0,0.0,marietta,georgia
+220747,2017,158907,Chrysler,Pacifica Touring-L,Used,8950.0,red,beige,FWD,12.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,kansas city,kansas
+219039,2023,46540,Chevrolet,Silverado 2500 High Country,Used,63573.0,black,black,4WD,6.0,Diesel,True,True,True,True,0.0,0.0,0.0,0.0,10,6.6,V8,32,0.0,0.0,phoenix,arizona
+54771,2015,84694,Toyota,Corolla S Premium,Used,16998.0,blue,black,RWD,14.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,1.8,I4,16,0.0,0.0,ontario,california
+221246,2021,79941,Chevrolet,Tahoe 4WD Z71,Used,47995.0,gray,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,5.3,V8,16,0.0,0.0,jackson,tennessee
+209815,2024,28078,GMC,Sierra 1500 Denali,Used,62700.0,black,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,6.2,V8,16,0.0,0.0,madras,oregon
+242538,2025,15943,Toyota,Camry SE,Certified,27998.0,black,black,FWD,20.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,2,2.5,I4,16,0.0,0.0,vero beach,florida
+224648,2020,73406,Ford,Mustang GT PREMIUM,Certified,33332.0,white,black,4WD,7.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,10,5.0,V8,16,0.0,0.0,anderson,south carolina
+234668,2024,61737,Nissan,Altima 2.5 SV,Used,23195.0,gray,black,FWD,14.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,2,2.5,I4,16,0.0,0.0,winston-salem,north carolina
+215531,2023,45246,Chevrolet,Malibu FWD 1LT,Used,18554.0,white,black,FWD,13.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,2,1.5,I4,16,0.0,0.0,arlington,texas
+120623,2015,165410,Honda,CR-V LX,Used,10499.0,white,black,AWD,13.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,2,2.4,I4,16,0.0,0.0,mechanicsville,virginia
+253318,2019,91213,Chrysler,Pacifica Limited,Used,21995.0,white,black,FWD,10.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,cresco,iowa
+258880,2022,77764,Ford,Edge Titanium,Used,18000.0,black,black,AWD,10.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,yuba city,california
+200245,2018,92287,Jeep,Grand Cherokee Limited X,Used,16500.0,gray,black,4WD,9.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,randolph,ohio
+234823,2025,9976,Nissan,Altima S FWD,Certified,22336.0,gray,gray,FWD,14.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,1,2.5,I4,16,0.0,0.0,cookeville,tennessee
+109085,2013,60380,Chevrolet,Malibu ECO,Used,9490.0,white,gray,FWD,13.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,2.4,I4,16,0.0,0.0,virginia,minnesota
+22938,2023,73150,Toyota,Highlander XLE,Certified,32931.0,gray,black,FWD,11.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,2.4,I4,16,0.0,0.0,matteson,illinois
+193489,2022,398,Mercedes-Benz,Sprinter 2500 High Roof,Used,148888.0,black,black,4WD,8.0,Diesel,False,True,True,False,0.0,0.0,0.0,0.0,9,3.0,V6,24,0.0,0.0,montclair,california
+19706,2024,21134,GMC,Sierra 3500 Pro,Used,57250.0,white,black,4WD,6.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,6.6,V8,16,0.0,0.0,wareham,massachusetts
+240752,2024,6828,Jeep,Grand Cherokee Laredo,Used,32319.0,white,black,4WD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,downey,california
+108456,2019,63205,Toyota,Tacoma TRD Pro,Used,41500.0,black,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,denver,colorado
+199655,2017,105935,Jeep,Wrangler Unlimited Sport,Used,18500.0,black,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,5,3.6,V6,24,0.0,0.0,charlotte,north carolina
+113731,2024,1401,Porsche,911 Targa 4 GTS,Certified,222980.0,black,red,AWD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.0,H6,24,0.0,0.0,fort worth,texas
+262372,2021,64130,Toyota,Camry XSE,Used,25990.0,silver,black,FWD,14.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,chattanooga,tennessee
+258198,2012,151641,Ford,Focus SE,Used,3500.0,gray,black,FWD,13.0,Flex Fuel,True,True,False,True,0.0,0.0,0.0,0.0,5,2.0,I4,16,0.0,0.0,southfield,michigan
+93665,2023,35476,Jeep,Gladiator Willys 4x4,Used,32959.0,white,black,4WD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,kingsland,georgia
+140333,2023,22754,GMC,Sierra 1500 Elevation,Certified,44400.0,white,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,5.3,V8,16,0.0,0.0,fort myers,florida
+7998,2022,67427,Toyota,RAV4 Hybrid SE,Used,30688.0,white,black,AWD,17.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,2,2.5,I4,16,0.0,0.0,bellflower,california
+86389,2025,1470,Ford,Escape ST-Line,Used,27615.0,white,black,FWD,13.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,1.5,I3,12,0.0,0.0,sylvania,georgia
+251127,2023,20171,Mazda,CX-5 2.5 S Select,Used,26995.0,black,black,AWD,11.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,el paso,texas
+106411,2024,10059,Honda,Accord Hybrid Base,Certified,29382.0,gray,black,FWD,18.0,Hybrid,False,True,False,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,lewisville,texas
+200021,2010,153184,Toyota,Prius IV,Used,7500.0,gray,gray,FWD,21.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,1.8,I4,16,0.0,0.0,aurora,colorado
+269863,2022,69282,Ford,Explorer XLT,Used,26995.0,white,black,4WD,10.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,10,2.3,I4,16,0.0,0.0,waterbury,connecticut
+83621,2022,30765,GMC,Sierra 1500 Elevation,Used,37985.0,white,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,2.7,I4,16,0.0,0.0,lake orion,michigan
+60187,2025,1197,Toyota,Tacoma TRD Sport,Certified,38492.0,black,black,RWD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.4,I4,16,0.0,0.0,scottsdale,arizona
+213960,2025,11958,BMW,X5 xDrive40i,Used,64490.0,white,black,AWD,11.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.0,I6,24,0.0,0.0,mount kisco,new york
+219343,2025,10747,Subaru,Forester Premium,Used,31610.0,gray,black,AWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.5,H4,16,0.0,0.0,colorado springs,colorado
+11559,2025,100,Jeep,Gladiator Sport,Used,69000.0,white,black,4WD,4.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,west palm beach,florida
+211145,2019,144935,Chevrolet,Silverado 1500 LT Trail Boss,Used,25995.0,red,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,5.3,V8,16,0.0,0.0,green bay,wisconsin
+218087,1990,68371,Mercedes-Benz,SL-Class SL-Class,Used,19998.0,black,black,RWD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,5.0,V8,16,0.0,0.0,plano,texas
+130218,2023,32885,Toyota,Tacoma SR5,Used,32990.0,white,gray,RWD,9.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,austin,texas
+206137,2018,120208,Chrysler,Pacifica Touring L Plus,Used,15991.0,white,black,FWD,10.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,minneapolis,minnesota
+145866,2022,27273,Chevrolet,Traverse RS,Used,37924.0,white,white,AWD,9.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,raynham,massachusetts
+182636,2020,106774,Chevrolet,Tahoe LT,Used,30980.0,gray,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,5.3,V8,16,0.0,0.0,charles city,iowa
+132972,2017,71105,Ford,F-250 XL,Used,25912.0,white,gray,RWD,7.0,Flex Fuel,False,True,True,False,0.0,0.0,0.0,0.0,6,6.2,V8,16,0.0,0.0,renton,washington
+212581,2020,79883,Toyota,Corolla SE,Used,16990.0,blue,black,FWD,15.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,streamwood,illinois
+165588,2022,36066,Toyota,Corolla LE,Certified,20598.0,white,black,FWD,14.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,2,1.8,I4,16,0.0,0.0,long beach,california
+110173,2001,36515,Mazda,MX-5 Miata LS,Used,18998.0,beige,yellow,RWD,11.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,4,1.8,I4,16,0.0,0.0,taylor,pennsylvania
+163514,2017,91027,MINI,Clubman Cooper S ALL4,Used,11900.0,gray,black,AWD,11.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,meriden,connecticut
+8777,2013,183108,Toyota,Camry SE,Used,7900.0,black,black,FWD,13.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,rainbow city,alabama
+122381,2022,41849,GMC,Sierra 2500 AT4,Used,60695.0,gray,black,4WD,6.0,Diesel,False,True,True,True,0.0,0.0,0.0,0.0,10,6.6,V8,32,0.0,0.0,bowie,texas
+129512,2024,19303,Honda,Civic Sport,Used,25150.0,white,black,FWD,14.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,cleveland,ohio
+176149,2023,56633,Ford,Explorer ST-Line,Used,34895.0,black,black,4WD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,10,2.3,I4,16,0.0,0.0,frederick,maryland
+120944,2023,35792,Ford,Explorer Limited,Certified,27081.0,gray,black,RWD,10.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,10,2.3,I4,16,0.0,0.0,groveport,ohio
+198385,2024,22004,Nissan,Rogue SV,Used,23774.0,black,gray,AWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,2,1.5,I3,12,0.0,0.0,kenosha,wisconsin
+244462,2024,26228,Chevrolet,Malibu FWD 2LT,Used,22365.0,white,black,FWD,13.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,2,1.5,I4,16,0.0,0.0,austin,texas
+213048,2022,32649,Honda,Accord Sport SE 1.5T,Certified,25832.0,white,black,FWD,14.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,1.5,I4,16,0.0,0.0,buffalo,new york
+237710,2021,46213,Jeep,Gladiator Willys 4x4,Used,27200.0,gray,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,deland,florida
+43723,2024,10210,Ford,Edge SE,Used,32760.0,white,yellow,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,o fallon,missouri
+14178,2021,97007,Toyota,Camry XSE,Used,22907.0,red,black,FWD,14.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,rainbow city,alabama
+239889,2016,99650,Nissan,Rogue S,Used,12500.0,silver,gray,FWD,6.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,smyrna,tennessee
+185017,2016,117371,Ford,Transit Connect XLT w/Rear Liftgate,Used,12900.0,white,gray,FWD,10.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,saint peters,missouri
+175952,2018,97495,Dodge,Challenger R/T,Used,21999.0,black,black,RWD,9.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,5.7,I5,16,0.0,0.0,quakertown,pennsylvania
+26038,2023,17795,Chevrolet,Tahoe 4WD RST,Certified,64618.0,red,black,4WD,7.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,10,5.3,V8,16,0.0,0.0,rochester,new york
+157306,2018,109339,Ford,F-150 XLT,Used,22995.0,black,black,4WD,10.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,waverly,new york
+26773,2023,75570,Chevrolet,Camaro 2LT,Used,28929.0,black,black,RWD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,10,3.6,V6,16,0.0,0.0,newnan,georgia
+52288,2022,26472,Porsche,Cayenne,Used,64000.0,white,black,AWD,8.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,3.0,V6,24,0.0,0.0,las vegas,nevada
+210637,2020,69118,Ford,Explorer XLT,Used,23214.0,blue,black,4WD,10.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,10,2.3,I4,16,0.0,0.0,little rock,arkansas
+248544,2019,25146,Porsche,911 GT3 RS,Used,221900.0,green,black,RWD,7.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,7,4.0,H6,24,0.0,0.0,phoenix,arizona
+245529,2003,32644,Porsche,911 Carrera Cabriolet,Used,39900.0,blue,yellow,RWD,9.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,3.6,H6,24,0.0,0.0,madison,wisconsin
+125579,2021,26995,Toyota,Tacoma TRD Sport,Used,38250.0,gray,black,4WD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,valencia,california
+185757,2018,83285,Acura,MDX 3.5L,Used,19930.0,white,black,FWD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,9,3.5,V6,24,0.0,0.0,el paso,texas
+109965,2022,57108,Honda,Pilot AWD Special Edition,Used,31434.0,white,black,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,9,3.5,V6,24,0.0,0.0,brewster,new york
+205278,2024,18038,GMC,Sierra 1500 Denali Ultimate,Used,66842.0,white,white,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,6.2,V8,16,0.0,0.0,fort worth,texas
+183740,2022,32632,Honda,Odyssey EX-L Auto,Used,35980.0,gray,black,FWD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,9,3.5,V6,24,0.0,0.0,brockport,new york
+103235,2021,57471,Tesla,Model S Plaid,Used,50790.0,black,black,AWD,0.0,Electric,False,True,True,True,15.0,30.0,100.0,565.6,1,0.0,NA,0,31.8,27.5,fall river,massachusetts
+90178,2022,38037,Acura,MDX,Used,43492.0,white,brown,AWD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.5,I4,16,0.0,0.0,boulder,colorado
+71535,2021,106751,Chevrolet,Silverado 1500 RST,Used,30884.0,white,black,4WD,8.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,8,5.3,V8,16,0.0,0.0,beloit,wisconsin
+126105,2022,35992,Jeep,Gladiator Willys 4x4,Used,37950.0,black,black,4WD,8.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,miami,florida
+136758,2022,47562,Honda,Civic Sport,Used,25721.0,white,black,FWD,14.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,franklin,tennessee
+85618,2021,42413,Audi,Q5 45 Premium,Used,22789.0,gray,black,AWD,11.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,7,2.0,I4,16,0.0,0.0,gurnee,illinois
+50987,2021,16867,Ford,Mustang Mach-E Premium,Used,27000.0,gray,gray,AWD,0.0,Electric,True,True,True,True,10.0,45.0,68.0,334.7,1,0.0,NA,0,42.0,37.0,denver,colorado
+103212,2014,92183,Toyota,Prius v Five,Used,13495.0,white,gray,FWD,18.0,Hybrid,True,True,False,True,0.0,0.0,0.0,0.0,6,1.8,I4,16,0.0,0.0,houston,texas
+111175,1990,52331,Chevrolet,Corvette Base,Used,14995.0,black,black,RWD,9.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,4,5.0,V8,16,0.0,0.0,dallas,texas
+155561,2024,13728,Chevrolet,Malibu LT,Certified,21254.0,gray,black,FWD,14.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,6,1.5,I4,16,0.0,0.0,madison,ohio
+220685,2020,67691,Jeep,Gladiator Rubicon,Used,35640.0,gray,black,4WD,8.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,saint george,utah
+221514,2022,33380,Toyota,Highlander Limited,Used,43625.0,gray,black,AWD,10.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,cedar falls,iowa
+138477,2017,98544,Ford,Escape S,Used,12795.0,gray,black,FWD,11.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,highland,indiana
+235967,2019,173049,Ford,F-250 Lariat,Used,37999.0,blue,black,4WD,6.0,Diesel,False,True,True,False,0.0,0.0,0.0,0.0,6,6.7,V8,32,0.0,0.0,millington,tennessee
+178959,2018,35831,Jeep,Wrangler Unlimited Rubicon,Used,34900.0,black,yellow,4WD,10.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,2.0,I4,24,0.0,0.0,kokomo,indiana
+188591,2020,80460,Chrysler,Pacifica Touring L,Used,19402.0,gray,black,FWD,10.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,avon,indiana
+250260,2022,36028,Honda,Pilot AWD Special Edition,Used,31995.0,white,black,AWD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,9,3.5,V6,24,0.0,0.0,glen head,new york
+206410,2019,92213,Ford,Edge Titanium,Used,12895.0,black,black,AWD,10.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,newark,new jersey
+108249,2020,72114,Jeep,Wrangler Unlimited Rubicon,Used,32400.0,white,black,4WD,9.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,2.0,I4,24,0.0,0.0,harrisonville,missouri
+214718,2021,45873,Ford,Explorer XLT,Used,26998.0,gray,black,4WD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,2.3,I4,16,0.0,0.0,old saybrook,connecticut
+174862,2020,56093,Honda,Civic Sport,Used,18799.0,red,black,FWD,14.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,merced,california
+167339,2023,65458,Jeep,Grand Cherokee Limited,Used,27900.0,black,black,4WD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,papillion,nebraska
+228432,2022,83468,Subaru,Forester Limited,Used,21733.0,gray,gray,AWD,13.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,7,2.5,H4,16,0.0,0.0,columbus,ohio
+27531,2023,16081,Jeep,Gladiator Mojave 4x4,Certified,39995.0,gray,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,valparaiso,indiana
+208957,2022,62836,Ford,Mustang EcoBoost Premium,Used,21599.0,gray,black,RWD,10.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,10,2.3,I4,16,0.0,0.0,shell rock,iowa
+214447,2020,29689,Honda,CR-V EX-L,Used,26998.0,white,black,RWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,1.5,I4,16,0.0,0.0,salem,oregon
+228357,2023,110545,Chevrolet,Malibu FWD 1LT,Used,16485.0,white,black,FWD,13.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,2,1.5,I4,16,0.0,0.0,san antonio,texas
+150408,2024,10707,Ford,Edge SEL,Used,28299.0,blue,black,AWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,fowlerville,michigan
+198669,2024,48868,Ford,Edge SEL,Certified,22993.0,gray,black,AWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,chesapeake,virginia
+142136,2017,56729,Jeep,Wrangler Unlimited Sport,Used,21991.0,white,black,4WD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,5,3.6,V6,24,0.0,0.0,henderson,nevada
+37404,2016,104154,Honda,Odyssey Touring Elite,Used,19995.0,white,brown,FWD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,richmond hill,new york
+30149,2024,27527,Ford,Escape Active,Used,23495.0,red,black,FWD,13.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,8,1.5,I3,12,0.0,0.0,herculaneum,missouri
+100255,2020,51595,Audi,Q5 45 Prestige,Used,24995.0,gray,black,AWD,11.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,pittston,pennsylvania
+256720,2018,5330,Dodge,Challenger T/A 392,Certified,37712.0,red,black,RWD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,6.4,V8,16,0.0,0.0,matteson,illinois
+145590,2022,41799,Toyota,Prius Limited,Used,24322.0,white,black,FWD,22.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,1.8,I4,16,0.0,0.0,fremont,california
+7127,2013,178116,Ford,Explorer Limited,Used,6299.0,gray,black,4WD,8.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,newark,ohio
+13340,2024,12553,Nissan,Altima 2.5 SV,Used,21990.0,white,gray,FWD,14.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,2,2.5,I4,16,0.0,0.0,south easton,massachusetts
+72642,2021,74267,Chevrolet,Traverse LT Cloth,Used,24450.0,white,black,FWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,garden grove,california
+187792,2008,72904,Mercedes-Benz,E-Class E 350 4MATIC AWD 4dr Sedan,Used,12500.0,silver,black,AWD,9.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,5,3.5,V6,24,0.0,0.0,farmington,minnesota
+67226,2016,155821,Ford,Escape SE,Used,7998.0,gray,black,4WD,11.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,1.6,I4,16,0.0,0.0,cambridge,minnesota
+261243,2019,75727,Honda,Civic LX,Used,17500.0,gray,black,FWD,14.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,1,2.0,I4,16,0.0,0.0,yucca valley,california
+240327,2024,7808,Ford,Maverick Lariat,Used,35907.0,gray,black,AWD,11.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,rochester,new york
+66599,2019,82302,Chevrolet,Traverse LT,Used,23998.0,gray,beige,4WD,9.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,4.729999999999999,I4,16,0.0,0.0,newport news,virginia
+27148,2023,40977,Toyota,Tacoma SR5,Used,34568.0,black,gray,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,claremont,new hampshire
+6344,2023,37984,Ford,F-150 Lariat,Used,43500.0,black,black,4WD,9.0,Hybrid,False,True,True,False,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,wentzville,missouri
+221387,2022,57759,Ford,Transit Connect XLT,Used,20997.0,white,black,FWD,11.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,orange,california
+17361,2023,17415,Chevrolet,Traverse RS,Used,39233.0,black,white,FWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,noblesville,indiana
+185165,2014,139229,Honda,CR-V EX,Used,11999.0,white,black,AWD,11.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,5,2.4,I4,16,0.0,0.0,middletown,ohio
+54009,2016,70426,Honda,Accord EX-L,Used,20095.0,gray,yellow,FWD,14.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,2.4,I4,16,0.0,0.0,lakeland,florida
+98961,2022,30082,Honda,CR-V 2WD EX-L,Used,26197.0,gray,black,FWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,1.5,I4,16,0.0,0.0,grand prairie,texas
+169102,2014,172375,Honda,CR-V EX-L,Used,8990.0,white,yellow,AWD,11.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,5,2.4,I4,16,0.0,0.0,bloomfield,connecticut
+86002,2013,90387,Ford,Focus SE,Used,10998.0,white,black,RWD,13.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,columbus,ohio
+177304,2021,23334,Dodge,Challenger SXT,Used,24998.0,black,black,RWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,pleasant hill,california
+84556,2016,107513,Honda,Accord Sport,Used,15899.0,gray,black,FWD,13.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,7,2.4,I4,16,0.0,0.0,los angeles,california
+145792,2020,108625,GMC,Sierra 3500 Denali,Used,52388.0,white,black,4WD,6.0,Diesel,False,True,True,True,0.0,0.0,0.0,0.0,10,6.6,V8,32,0.0,0.0,south bend,indiana
+154046,2016,67864,Toyota,Highlander Hybrid Platinum,Used,26997.0,blue,gray,AWD,12.0,Hybrid,True,True,False,True,0.0,0.0,0.0,0.0,8,3.5,V6,16,0.0,0.0,longmont,colorado
+243046,2019,20676,Ford,Mustang EcoBoost,Used,21987.0,white,black,RWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,2.3,I4,16,0.0,0.0,tampa,florida
+128124,2025,12687,Toyota,Sienna XLE 7 Passenger,Certified,51995.0,gray,gray,AWD,15.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,inver grove heights,minnesota
+80639,2022,17596,GMC,Sierra 1500 SLT,Used,44988.0,gray,black,4WD,7.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,6.2,V8,16,0.0,0.0,granger,iowa
+211848,2023,13063,Toyota,4Runner TRD Off Road Premium,Used,52495.0,white,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,5,4.0,V6,24,0.0,0.0,kirkland,washington
+31556,2024,15901,Porsche,Cayenne Base,Used,75315.0,black,black,AWD,8.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,3.0,V6,24,0.0,0.0,atlanta,georgia
+32464,2022,66231,Toyota,Corolla LE,Used,18603.0,gray,gray,FWD,14.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,2,1.8,I4,16,0.0,0.0,dry ridge,kentucky
+78042,2022,24439,Toyota,Highlander XLE,Certified,41995.0,brown,black,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,minneapolis,minnesota
+78084,2009,143340,Lexus,ES 350 Base (A6),Used,9495.0,silver,gray,FWD,10.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,west chicago,illinois
+203813,2022,45317,Chevrolet,Malibu FWD LT,Used,18977.0,white,black,FWD,14.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,1.5,I4,16,0.0,0.0,roseville,california
+248183,2024,62816,Chevrolet,Malibu FWD 1LT,Certified,20450.0,white,black,FWD,14.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,2,1.5,I4,16,0.0,0.0,pine bluff,arkansas
+43600,2018,150221,Chevrolet,Malibu 1LS,Used,6950.0,white,black,FWD,13.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,6,1.5,I4,16,0.0,0.0,indianapolis,indiana
+61375,2021,45900,Chevrolet,Silverado 1500 LTZ,Used,40699.0,gray,black,4WD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,10,6.2,V8,16,0.0,0.0,forest lake,minnesota
+242211,2012,79621,Kia,Sedona EX,Used,8995.0,blue,gray,FWD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,metuchen,new jersey
+129851,2016,39459,Ford,Transit-350 XL,Used,33785.0,white,gray,RWD,8.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,6,3.7,V6,24,0.0,0.0,medina,ohio
+42129,2014,190955,Chevrolet,Silverado 3500 LTZ,Used,25988.0,black,gray,4WD,5.0,Diesel,True,True,False,False,0.0,0.0,0.0,0.0,6,6.6,V8,32,0.0,0.0,scottsdale,arizona
+135273,2023,5511,Chevrolet,Traverse LT Cloth,Used,31991.0,white,black,FWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,scottsdale,arizona
+89061,2021,11487,Chevrolet,Traverse Premier,Used,42000.0,silver,black,AWD,9.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,Unknown_City,Unknown_State
+192386,2021,32686,Jeep,Gladiator Willys 4x4,Used,35500.0,gray,black,4WD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,henderson,nevada
+106788,2024,30216,Toyota,Tacoma,Used,32792.0,white,black,RWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.4,I4,16,0.0,0.0,plano,texas
+153553,2021,13534,Lexus,ES 350 Base,Used,39995.0,black,black,FWD,11.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,honolulu,hawaii
+194414,2023,24547,Ford,Explorer XLT,Used,32935.0,black,black,4WD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,2.3,I4,16,0.0,0.0,appleton,wisconsin
+21540,2024,13818,Chevrolet,Malibu RS,Used,24995.0,white,black,FWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,1.5,I4,16,0.0,0.0,thorndale,pennsylvania
+83014,2023,59460,Toyota,Highlander XLE,Certified,37499.0,gray,gray,AWD,10.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,8,2.4,I4,16,0.0,0.0,tinley park,illinois
+41279,2022,89967,Chevrolet,Silverado 1500 LT Trail Boss,Used,34491.0,red,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,5.3,V8,16,0.0,0.0,huntsville,alabama
+154542,2024,39958,BMW,X5 sDrive40i,Used,48621.0,black,black,RWD,11.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,3.0,I6,24,0.0,0.0,hollywood,florida
+9506,2023,15196,Tesla,Model Y RWD,Used,28995.0,gray,black,RWD,0.0,Electric,True,True,True,True,6.0,25.0,77.0,393.4,1,0.0,NA,0,32.6,27.2,riverhead,new york
+150961,2021,113611,Chevrolet,Express 2500 Work Van,Used,19000.0,white,gray,RWD,5.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,6,6.6,V8,16,0.0,0.0,charlotte,north carolina
+26824,2023,50434,Toyota,Camry XLE,Certified,27749.0,black,gray,AWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,charleston,south carolina
+139187,2018,63673,Lexus,ES 350 Base,Used,23800.0,beige,black,FWD,11.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,elmhurst,illinois
+230445,2015,72200,Mercedes-Benz,S-Class 4MATIC,Used,27600.0,black,black,AWD,9.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,7,4.7,V8,32,0.0,0.0,bellevue,washington
+165498,2017,81697,Toyota,Corolla SE,Used,14897.0,gray,black,FWD,13.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,1.8,I4,16,0.0,0.0,ardmore,pennsylvania
+114486,2020,42495,Jeep,Wrangler Sport S,Used,25894.0,white,black,4WD,10.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,battle creek,michigan
+1249,2017,45773,Toyota,Tacoma Base,Used,27759.0,gray,gray,RWD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,weatherford,texas
+205696,2017,105087,Ford,Explorer Limited,Used,16890.0,white,black,FWD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,2.3,I4,16,0.0,0.0,bessemer,alabama
+173680,2023,28852,Toyota,Tacoma TRD Off Road,Used,38299.0,black,black,4WD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,irvine,california
+194230,2024,22106,Kia,Soul LX,Certified,18734.0,red,black,FWD,14.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,2,2.0,I4,16,0.0,0.0,youngstown,ohio
+215843,2018,58284,Tesla,Model 3,Used,21788.0,white,black,AWD,0.0,Electric,False,True,True,True,10.0,30.0,70.0,427.2,1,0.0,NA,0,51.0,48.0,sandy,utah
+168329,2022,84885,Chevrolet,Traverse LT Cloth,Used,22808.0,white,black,FWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,arlington,texas
+227030,2024,20097,Toyota,Highlander XSE,Used,38579.0,blue,black,FWD,11.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.4,I4,16,0.0,0.0,houston,texas
+125585,2023,13099,Chevrolet,Camaro 2SS,Used,49232.0,gray,gray,RWD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,10,6.2,V8,16,0.0,0.0,granbury,texas
+60275,2024,12165,Nissan,Altima 2.5 SR,Used,24750.0,white,gray,AWD,13.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,2,2.5,I4,16,0.0,0.0,schaumburg,illinois
+108623,2021,58629,Ford,F-150 Lariat,Used,48990.0,yellow,black,4WD,8.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,lubbock,texas
+38229,2017,133755,Toyota,Highlander Limited,Used,19950.0,white,black,FWD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,mobile,alabama
+80443,2008,15151,Dodge,Challenger SRT8,Used,27985.0,white,gray,RWD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,5,6.1,I6,16,0.0,0.0,wendell,north carolina
+238390,2019,92196,Toyota,Highlander Limited Platinum,Used,27990.0,gray,gray,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,annapolis,maryland
+222729,2014,102027,Ford,Edge SEL,Used,11998.0,gray,black,RWD,10.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,pharr,texas
+87585,2024,17476,Ford,Mustang Mach-E Select,Used,29824.0,gray,black,AWD,0.0,Electric,False,True,True,True,8.0,32.0,72.0,378.4,1,0.0,NA,0,40.0,37.0,toledo,ohio
+29952,2018,56565,Jeep,Wrangler Unlimited Rubicon,Used,33088.0,white,black,4WD,8.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,plainfield,indiana
+6706,2019,88695,Honda,Pilot EX-L,Used,20985.0,gray,black,AWD,4.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,hasbrouck heights,new jersey
+131692,2022,42100,Honda,CR-V EX,Used,27045.0,white,black,AWD,13.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,1,1.5,I4,16,0.0,0.0,yakima,washington
+149863,2022,45819,Dodge,Charger SXT,Used,18992.0,black,black,RWD,10.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,houston,texas
+170746,2023,38959,Acura,MDX Technology,Used,39876.0,gray,black,FWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,beaumont,texas
+35548,2022,43393,Honda,Pilot AWD EX-L,Used,33916.0,white,black,AWD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,9,3.5,V6,24,0.0,0.0,hannibal,missouri
+235689,2020,49726,Ford,Explorer XLT,Used,20789.0,black,black,RWD,10.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,10,2.3,I4,16,0.0,0.0,west palm beach,florida
+153228,2010,134760,Mazda,Mazda3 i Touring,Used,5495.0,black,black,FWD,12.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,5,2.0,I4,16,0.0,0.0,houston,texas
+68047,2022,44938,Toyota,Highlander XLE,Used,36259.0,orange,black,AWD,10.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,avenel,new jersey
+185792,2013,89484,Ford,Explorer Limited,Used,10991.0,green,gray,FWD,9.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,lakeland,florida
+255798,2024,22569,Chevrolet,Malibu FWD RS,Used,24900.0,white,black,FWD,14.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,1.5,I4,16,0.0,0.0,boaz,alabama
+118177,2022,100000,Toyota,Camry Hybrid XLE,Used,24990.0,blue,gray,FWD,19.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,green bay,wisconsin
+248120,2020,51773,Honda,Civic EX,Used,17491.0,blue,black,FWD,16.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,2,1.5,I4,16,0.0,0.0,indianapolis,indiana
+2471,2023,100310,Toyota,Sienna XLE,Used,34995.0,black,gray,FWD,15.0,Hybrid,True,True,False,True,0.0,0.0,0.0,0.0,2,2.5,I4,16,0.0,0.0,lehi,utah
+99639,2001,216835,Ford,F-250 Super Duty,Used,14995.0,red,gray,4WD,6.4,Diesel,False,True,False,True,0.0,0.0,0.0,0.0,8,7.3,V8,16,0.0,0.0,port angeles,washington
+132140,2017,61453,Chevrolet,Camaro 1LS,Used,17998.0,red,black,RWD,11.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,fredericksburg,virginia
+37066,2021,95520,Ford,Escape SEL,Used,18995.0,white,yellow,AWD,12.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,8,1.5,I3,12,0.0,0.0,grand rapids,michigan
+95650,2019,113186,Ford,Edge SEL,Used,14495.0,blue,gray,AWD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,riverview,michigan
+202929,2016,94195,BMW,X5 xDrive35i,Used,16450.0,silver,black,AWD,9.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,3.0,I6,24,0.0,0.0,lima,ohio
+169633,2017,122581,Chrysler,Pacifica Touring-L,Used,11495.0,gray,black,FWD,10.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,clarksville,tennessee
+153311,2023,32446,Chevrolet,Traverse RS,Used,38643.0,gray,white,AWD,9.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,neenah,wisconsin
+125144,2024,37770,Toyota,Highlander LE,Used,36650.0,gray,black,AWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.4,I4,16,0.0,0.0,memphis,tennessee
+28467,2017,73447,Toyota,Tacoma TRD Sport,Used,26878.0,orange,black,4WD,9.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,lockport,new york
+182385,2013,49151,Porsche,911 Carrera,Used,59980.0,red,beige,RWD,10.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,7,3.4,H6,24,0.0,0.0,westmont,illinois
+5186,2021,73528,Subaru,Forester Premium,Used,20587.0,gray,black,AWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.5,H4,16,0.0,0.0,nicholasville,kentucky
+190855,2021,6551,Mercedes-Benz,C-Class C 300 4MATIC,Used,31950.0,gray,beige,AWD,12.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,9,2.0,I4,16,0.0,0.0,minneapolis,minnesota
+253044,2022,35929,Ford,Mustang Mach-E Premium,Used,28995.0,black,black,AWD,0.0,Electric,False,True,True,True,10.0,45.0,91.0,431.2,1,0.0,NA,0,42.0,37.0,clinton township,michigan
+265039,2021,65750,Jeep,Grand Cherokee Limited,Used,25500.0,black,black,4WD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,saint charles,missouri
+239818,2019,115801,Nissan,Rogue SV,Used,11994.0,white,gray,FWD,13.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,7,2.5,I4,16,0.0,0.0,conroe,texas
+79358,2025,3534,Mercedes-Benz,E-Class E 350,Used,62989.0,white,black,RWD,12.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,9,2.0,I4,16,0.0,0.0,sugar land,texas
+158831,2024,29629,Chevrolet,Malibu FWD 1LT,Used,19579.0,gray,black,FWD,14.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,2,1.5,I4,16,0.0,0.0,montgomery,alabama
+221960,2021,72877,GMC,Sierra 3500 Base,Used,53997.0,white,black,4WD,5.0,Diesel,False,True,True,False,0.0,0.0,0.0,0.0,6,6.6,V8,16,0.0,0.0,bellingham,washington
+252295,2024,18619,Chevrolet,Silverado 1500 ZR2,Certified,58789.0,gray,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,6.2,V8,24,0.0,0.0,franklin,tennessee
+162009,2014,118212,Honda,Accord LX,Used,9995.0,gray,gray,FWD,13.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,2.4,I4,16,0.0,0.0,irvington,new jersey
+207190,2022,38024,Chevrolet,Silverado 1500 LT,Used,41929.0,gray,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,5.3,V8,16,0.0,0.0,saginaw,michigan
+72378,2014,114644,Toyota,Highlander Limited Platinum,Used,19995.0,white,gray,AWD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,mc cook,nebraska
+131783,2023,20891,Ford,Edge ST,Certified,33850.0,white,black,AWD,9.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,7,2.7,V6,24,0.0,0.0,ann arbor,michigan
+145550,2020,76966,Chevrolet,Traverse LT Cloth,Used,22725.0,gray,black,AWD,9.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,ada,oklahoma
+85455,2022,30724,Honda,CR-V Hybrid Touring,Used,30980.0,white,black,AWD,16.0,Hybrid,True,True,True,True,0.0,0.0,0.0,0.0,2,2.0,I4,16,0.0,0.0,cleveland,ohio
+138957,2020,39811,Jeep,Wrangler Unlimited Rubicon,Used,38339.0,gray,black,4WD,11.0,Diesel,False,True,False,False,0.0,0.0,0.0,0.0,8,3.0,V6,24,0.0,0.0,madison,north carolina
+148702,2017,94622,Honda,Civic EX-L Navi,Used,16863.0,gray,black,FWD,16.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,6,1.5,I4,16,0.0,0.0,santa fe,new mexico
+228229,2019,61866,Ford,Transit-250 Base,Used,29950.0,gray,gray,RWD,8.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,3.7,V6,24,0.0,0.0,stone park,illinois
+175513,2024,35035,Chevrolet,Malibu FWD 1LT,Used,22499.0,gray,black,FWD,13.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,2,1.5,I4,16,0.0,0.0,pelham,alabama
+62734,2019,14413,Ford,Mustang Bullitt,Used,37095.0,gray,black,RWD,8.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,5.0,V8,32,0.0,0.0,bronx,new york
+105981,2022,26984,Audi,Q5 45 S line Premium,Used,28046.0,white,brown,AWD,11.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,7,2.0,I4,16,0.0,0.0,modesto,california
+7584,2022,60998,Toyota,RAV4 Hybrid XSE,Used,32814.0,black,black,AWD,17.0,Hybrid,False,True,False,False,0.0,0.0,0.0,0.0,2,2.5,I4,16,0.0,0.0,houston,texas
+181631,2014,95747,Dodge,Challenger SXT,Used,11795.0,black,gray,RWD,10.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,5,3.6,V6,24,0.0,0.0,middletown,new jersey
+4246,2023,51743,Chevrolet,Malibu FWD 1LT,Used,16951.0,gray,black,FWD,13.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,2,1.5,I4,16,0.0,0.0,san antonio,texas
+165444,2024,18390,Mercedes-Benz,C-Class C 300,Used,34999.0,white,black,RWD,6.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,9,2.0,I4,16,0.0,0.0,west palm beach,florida
+208552,2023,45597,Toyota,Highlander L,Certified,29444.0,gray,black,FWD,11.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,8,2.4,I4,16,0.0,0.0,wesley chapel,florida
+108487,2022,90880,Toyota,Highlander XLE,Used,29988.0,gray,gray,AWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,columbus,ohio
+3834,2024,19860,Ford,Mustang GT Premium,Used,43599.0,white,gray,RWD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,5.0,V8,32,0.0,0.0,lisle,illinois
+42799,2020,54400,Ford,Escape SEL,Used,19826.0,gray,black,AWD,11.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,12,0.0,0.0,abington,massachusetts
+18926,2018,86697,Toyota,Tundra SR5,Used,34000.0,white,gray,4WD,6.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,5.7,V8,32,0.0,0.0,colorado springs,colorado
+33081,2019,69994,Dodge,Challenger GT,Used,18495.0,blue,black,RWD,10.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,hightstown,new jersey
+9181,2002,28306,Chrysler,PT Cruiser Base,Used,8911.0,gray,white,FWD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,2.4,I4,16,0.0,0.0,casey,illinois
+146487,2025,14835,Ford,Escape ST-Line,Used,23998.0,black,black,FWD,13.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,8,1.5,I3,12,0.0,0.0,houston,texas
+52501,2023,25003,Toyota,4Runner TRD Pro,Used,56995.0,black,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,5,4.0,V6,24,0.0,0.0,hackensack,new jersey
+249242,2019,112379,Jeep,Grand Cherokee Trailhawk,Used,17399.0,gray,black,4WD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,salt lake city,utah
+70753,2025,9763,Honda,Civic LX,Certified,31635.0,white,black,FWD,16.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,1,2.0,I4,16,0.0,0.0,akron,ohio
+242264,2014,102346,Ford,Focus SE,Used,6899.0,gray,black,FWD,13.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,2.0,I4,16,0.0,0.0,troy,michigan
+211824,2015,54195,Lexus,ES 350 Base,Used,21990.0,yellow,beige,FWD,11.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,winter haven,florida
+166177,2024,31759,Chevrolet,Silverado 3500 WT,Used,60489.0,white,black,4WD,5.0,Diesel,False,True,True,False,0.0,0.0,0.0,0.0,10,6.6,V8,32,0.0,0.0,ocala,florida
+52964,2022,70956,GMC,Sierra 1500 Elevation,Used,37229.0,black,black,4WD,10.0,Diesel,False,True,False,False,0.0,0.0,0.0,0.0,10,3.0,I6,16,0.0,0.0,hicksville,ohio
+258326,1990,62175,Mercedes-Benz,E-Class E320 Cabriolet,Used,19900.0,black,black,RWD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,3.2,I6,16,0.0,0.0,bridgeport,connecticut
+28979,2021,69865,GMC,Sierra 1500 Elevation,Used,32411.0,white,black,4WD,8.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,5.3,V8,16,0.0,0.0,bartlesville,oklahoma
+17171,2017,8273,Chevrolet,Corvette Stingray,Used,49250.0,black,black,RWD,9.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,6.2,V8,16,0.0,0.0,warrenton,virginia
+128137,2023,61242,Toyota,Highlander L,Used,33932.0,black,black,FWD,11.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.4,I4,16,0.0,0.0,cookeville,tennessee
+230831,2021,40347,Jeep,Wrangler Willys,Used,35995.0,black,black,4WD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,24,0.0,0.0,salem,illinois
+46633,2019,80847,Toyota,Sienna SE,Used,29985.0,white,black,AWD,9.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,madisonville,kentucky
+122471,2014,158359,Acura,MDX 3.5L,Used,9870.0,gray,gray,FWD,10.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,3.5,V6,24,0.0,0.0,cerritos,california
+221313,2018,106827,Ford,Escape SEL,Used,12888.0,blue,black,FWD,11.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,1.5,I4,16,0.0,0.0,beaverton,oregon
+103103,2021,54555,Toyota,RAV4 Hybrid SE,Used,33990.0,black,black,AWD,17.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,2,2.5,I4,16,0.0,0.0,olympia,washington
+100643,2024,33132,Chevrolet,Silverado 3500 High Country,Used,68988.0,black,black,4WD,6.0,Diesel,False,True,True,True,0.0,0.0,0.0,0.0,10,6.6,V8,32,0.0,0.0,kennewick,washington
+244966,2016,97135,Chevrolet,Malibu 1LT,Used,10490.0,red,black,FWD,14.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,1.5,I4,16,0.0,0.0,mentor,ohio
+172726,2024,8708,Ford,Mustang Mach-E Premium,Used,35141.0,gray,gray,AWD,0.0,Electric,False,True,True,True,10.0,36.0,91.0,415.6,1,0.0,NA,0,40.0,37.0,wapakoneta,ohio
+69782,2015,106679,Toyota,Prius Three,Used,9995.0,silver,gray,FWD,21.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,1.8,I4,16,0.0,0.0,chandler,arizona
+65301,2023,64849,Toyota,4Runner SR5,Used,36280.0,black,gray,4WD,7.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,5,4.0,V6,24,0.0,0.0,marysville,washington
+9447,2017,96009,Chrysler,Pacifica Touring,Used,12595.0,white,black,FWD,10.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,9,3.6,V6,24,0.0,0.0,east windsor,connecticut
+89292,2025,21123,Toyota,Camry XSE,Certified,32991.0,white,black,FWD,20.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,2,2.5,I4,16,0.0,0.0,scottsdale,arizona
+26984,2004,139562,Toyota,Prius Base,Used,4900.0,gray,gray,FWD,13.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,8,1.5,I4,16,0.0,0.0,portland,oregon
+120053,2017,48318,Ford,F-150 Raptor 4x4 4dr SuperCrew 5.5 ft. SB,Used,42750.0,white,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,summit argo,illinois
+66945,2017,140302,Ford,F-250 Platinum,Used,44000.0,gray,black,4WD,5.0,Diesel,False,True,False,False,0.0,0.0,0.0,0.0,6,6.7,V8,32,0.0,0.0,alvin,texas
+2566,2019,102644,Ford,Edge SEL,Used,13995.0,gray,gray,AWD,10.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,muskegon,michigan
+186078,2022,44544,Ford,F-150 Lariat,Used,50636.0,black,black,4WD,8.0,Hybrid,True,True,False,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,honolulu,hawaii
+161608,2023,42777,Jeep,Grand Cherokee Laredo,Used,27995.0,black,black,4WD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,rockville,maryland
+88971,2015,124820,Honda,Civic SE,Used,7400.0,gray,black,FWD,6.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,5,1.8,I4,16,0.0,0.0,flint,michigan
+153435,2025,17773,Honda,Pilot EX-L,Used,41458.0,white,black,AWD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,monroeville,pennsylvania
+72174,2023,46364,Ford,Explorer ST,Certified,43594.0,white,black,4WD,9.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,10,3.0,V6,24,0.0,0.0,liverpool,new york
+91819,2017,64516,Toyota,Highlander LE,Used,21265.0,gray,gray,AWD,10.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,jasper,alabama
+76278,2024,42591,Ford,Edge SEL,Used,20991.0,gray,black,AWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,denver,colorado
+196714,2017,133872,Dodge,Grand Caravan GT,Used,9397.0,red,black,FWD,9.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,6,3.6,V6,24,0.0,0.0,myrtle beach,south carolina
+130868,2019,149401,Ford,Transit-250 Base,Used,13891.0,white,black,RWD,8.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,3.7,V6,24,0.0,0.0,brunswick,ohio
+95624,2021,29263,Porsche,Panamera 4,Used,69575.0,gray,red,AWD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.9,V6,24,0.0,0.0,dallas,texas
+138213,2021,19334,Lexus,ES 350 Base,Used,40550.0,blue,brown,FWD,11.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,chantilly,virginia
+187061,2017,101102,Nissan,Rogue SV,Used,11995.0,silver,black,AWD,12.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,7,2.5,I4,16,0.0,0.0,dagsboro,delaware
+158042,2009,53084,Mercedes-Benz,SL-Class SL 550,Used,9995.0,blue,beige,RWD,7.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,7,5.5,V8,32,0.0,0.0,addison,illinois
+257540,2016,151760,Honda,Civic EX-T,Used,12499.0,blue,black,FWD,18.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,6,1.5,I4,16,0.0,0.0,camp hill,pennsylvania
+8163,2021,41058,Ford,Mustang Mach-E Select,Used,23995.0,red,black,AWD,0.0,Electric,False,True,False,False,8.0,45.0,68.0,334.7,1,0.0,NA,0,42.0,37.0,madison,tennessee
+14506,2023,53561,Ford,Mustang EcoBoost Premium,Used,27550.0,gray,black,RWD,10.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,2.3,I4,16,0.0,0.0,white hall,arkansas
+110533,2022,72806,Honda,Odyssey Touring,Used,32376.0,white,black,FWD,10.0,Gasoline,False,True,False,False,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,defiance,ohio
+26778,2025,4495,Ford,Explorer Active,Certified,39826.0,white,black,RWD,10.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,2.3,I4,16,0.0,0.0,rockwall,texas
+209350,2017,148805,Toyota,Sienna LE,Used,15339.0,black,gray,FWD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,8,3.5,V6,24,0.0,0.0,muncie,indiana
+68957,2020,46278,Jeep,Gladiator Sport S,Used,28216.0,black,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,port arthur,texas
+58266,2022,58999,Ford,Bronco Badlands,Used,41982.0,blue,black,4WD,3.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,10,2.7,V6,24,0.0,0.0,clinton,tennessee
+201612,2023,40228,Chevrolet,Tahoe 4WD Z71,Used,57907.0,red,black,4WD,7.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,10,5.3,V8,16,0.0,0.0,arlington,texas
+257871,2023,58428,Toyota,Camry LE,Certified,25647.0,gray,gray,AWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,milford,massachusetts
+96641,2021,30652,Chevrolet,Silverado 1500 RST,Used,42764.0,black,black,4WD,8.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,6.2,V8,16,0.0,0.0,waterbury,connecticut
+177042,2017,94671,Toyota,Camry XLE,Used,15228.0,gray,black,FWD,12.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,mission viejo,california
+33493,2025,1000,Audi,Q5 Premium 45 TFSI S line quattro,Certified,45900.0,white,black,AWD,11.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,7,2.0,I4,16,0.0,0.0,bedford,ohio
+40128,2023,29804,Ford,Edge ST,Used,30948.0,gray,black,AWD,9.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,7,2.7,V6,24,0.0,0.0,canonsburg,pennsylvania
+143937,2020,58660,Ford,Explorer Platinum,Used,28995.0,gray,black,4WD,9.0,Gasoline,False,True,True,False,0.0,0.0,0.0,0.0,10,3.0,V6,24,0.0,0.0,dublin,ohio
+50344,2016,141860,Jeep,Wrangler Unlimited Sport,Used,15299.0,gray,black,4WD,8.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,5,3.6,V6,24,0.0,0.0,milwaukee,wisconsin
+2488,2019,107155,Jeep,Grand Cherokee Limited,Used,15900.0,black,black,4WD,9.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,8,3.6,V6,24,0.0,0.0,Unknown_City,Unknown_State
+175296,2021,72965,Ford,F-150 Lariat,Used,39444.0,blue,black,4WD,9.0,Hybrid,False,True,True,True,0.0,0.0,0.0,0.0,10,3.5,V6,24,0.0,0.0,meridian,idaho
+101691,2019,99455,Dodge,Grand Caravan SE,Used,10980.0,black,black,FWD,9.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,6,3.6,V6,24,0.0,0.0,lexington,kentucky
+74010,2008,168108,Jeep,Grand Cherokee Laredo,Used,3775.0,white,gray,4WD,7.0,Gasoline,True,True,False,True,0.0,0.0,0.0,0.0,5,3.7,V6,12,0.0,0.0,neptune,new jersey
+261201,2023,35673,Mazda,CX-5 Signature,Used,28475.0,white,brown,AWD,10.0,Gasoline,False,True,False,True,0.0,0.0,0.0,0.0,6,2.5,I4,16,0.0,0.0,stuart,florida
+57877,2019,66870,Chrysler,Pacifica Hybrid Touring Plus,Used,18995.0,white,black,FWD,32.0,Plug-in Hybrid,False,True,True,False,0.0,0.0,0.0,0.0,1,3.6,V6,24,0.0,0.0,riverbank,california
+242832,2022,18787,BMW,X3 xDrive30i,Used,32999.0,white,black,AWD,10.0,Gasoline,True,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,bloomfield,new jersey
+71977,2023,10295,Chevrolet,Corvette Stingray w/1LT,Used,64997.0,gray,black,RWD,8.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,8,6.2,V8,16,0.0,0.0,tampa,florida
+142326,2021,10342,Chevrolet,Tahoe 4WD High Country,Used,55700.0,red,black,4WD,7.0,Gasoline,True,True,True,False,0.0,0.0,0.0,0.0,10,6.2,V8,16,0.0,0.0,maumee,ohio
+93890,2022,40071,Ford,Maverick Lariat,Used,30349.0,black,yellow,AWD,11.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.0,I4,16,0.0,0.0,granger,indiana
+55390,2024,15711,Acura,MDX w/Technology Package,Certified,48189.0,silver,black,AWD,9.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,3.5,V6,16,0.0,0.0,chantilly,virginia
+263062,2021,30240,Nissan,Rogue S,Used,21998.0,gray,black,RWD,13.0,Gasoline,False,True,True,True,0.0,0.0,0.0,0.0,8,2.5,I4,16,0.0,0.0,dothan,alabama
+240297,1990,131860,Mercedes-Benz,SL-Class SL 320,Used,13995.0,red,yellow,RWD,8.0,Gasoline,True,True,False,False,0.0,0.0,0.0,0.0,8,3.2,I6,16,0.0,0.0,palm springs,california
